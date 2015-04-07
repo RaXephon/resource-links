@@ -1,5 +1,7 @@
 # Data Science Technical Links 
 
+## Markdown
+* [Markdown Tutorial](http://markdowntutorial.com/)
 
 ## Unix - Bash 
 
