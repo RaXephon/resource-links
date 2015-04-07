@@ -1,7 +1,7 @@
-* Data Science Technical Links *
+* Data Science Technical Links 
 
 
-* Unix - Bash *
+* Unix - Bash 
 
 * [Bash Guide for Beginners](http://writers.fultus.com/garrels/ebooks/Machtelt_Garrels_Bash_Guide_for_Beginners_2nd_Ed.pdf): A 200-page PDF book.
 
