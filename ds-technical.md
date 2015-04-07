@@ -10,6 +10,9 @@
 ## ssh
 * [Generating ssh Keys](https://help.github.com/articles/generating-ssh-keys/)
 
+## GitHub Pages
+* [Websites for you and your projects](https://pages.github.com/)
+
 ## Git
 
 * [Pro Git](http://git-scm.com/book): An excellent online book that teaches the Git concepts and code in an approachable and logical way. You will learn a lot even if you only read the first few chapters!
