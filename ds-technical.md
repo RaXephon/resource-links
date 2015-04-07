@@ -1,4 +1,4 @@
-## Data Science Technical Links 
+* Data Science Technical Links 
 
 
 * Unix - Bash
