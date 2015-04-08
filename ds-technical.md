@@ -34,6 +34,7 @@ There are many good resources for learning Git. (Here's an excellent online book
 
 * [Introduction to Computation and Programming Using Python](http://planspace.org/20150111-a_great_python_book_explains_hash_tables/) Hash tables are explained.
 * [Survive Python by Aaron](https://survive-python.herokuapp.com/user/Aaron/)
+* [11 Python Libraries You Might Not Know](http://blog.yhathq.com/posts/11-python-libraries-you-might-not-know.html)
 
 ## IPython
 * [IPython Notebook on a VPS (Virtual Private Server) ](http://calebmadrigal.com/ipython-notebook-vps/)This is a guide to set up IPython Notebook on a Server - specifically, on a DigitalOcean VPS. This will allow you to access your iPython Notebooks from anywhere.
