@@ -21,6 +21,8 @@
 * [GitHub Guides](https://guides.github.com/): Concise guides that help you to understand GitHub in more depth.c
 
 ## Git - Data School
+* [Introduction to Git and GitHub on YouTube](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+* 
 * [Git Resources for Beginners](http://www.dataschool.io/tag/git/)
 
 * [Simple guide to forks in GitHub and Git](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
