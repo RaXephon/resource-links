@@ -19,3 +19,9 @@
 * [Git Reference](http://gitref.org/): A handy reference guide for each command, including an explanation of the most common arguments.
 * [Git Tutorials (Atlassian)](https://www.atlassian.com/git/tutorial): It splits the difference between "Pro Git" and "Git Reference": less explanation than a book, but more explanation than a reference guide.
 * [GitHub Guides](https://guides.github.com/): Concise guides that help you to understand GitHub in more depth.c
+
+## Python
+
+* [Introduction to Computation and Programming Using Python](http://planspace.org/20150111-a_great_python_book_explains_hash_tables/)
+
+
