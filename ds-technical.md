@@ -20,6 +20,15 @@
 * [Git Tutorials (Atlassian)](https://www.atlassian.com/git/tutorial): It splits the difference between "Pro Git" and "Git Reference": less explanation than a book, but more explanation than a reference guide.
 * [GitHub Guides](https://guides.github.com/): Concise guides that help you to understand GitHub in more depth.c
 
+## Git - Data School
+* [Git Resources for Beginners](http://www.dataschool.io/tag/git/)
+
+* [Simple guide to forks in GitHub and Git](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
+In my experience, one of the most confusing parts about getting started in Git and GitHub is trying to figure out the following: What do I do in Git, and what do I do in GitHub? Git tutorials tend not...
+
+* [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/)
+There are many good resources for learning Git. (Here's an excellent online book, and this is my videos series introducing Git and GitHub.) But once you've learned the basics, it can be hard to remember which commands to use to...
+
 ## Python
 
 * [Introduction to Computation and Programming Using Python](http://planspace.org/20150111-a_great_python_book_explains_hash_tables/) Hash tables are explained.
