@@ -22,6 +22,6 @@
 
 ## Python
 
-* [Introduction to Computation and Programming Using Python](http://planspace.org/20150111-a_great_python_book_explains_hash_tables/)
+* [Introduction to Computation and Programming Using Python](http://planspace.org/20150111-a_great_python_book_explains_hash_tables/) Hash tables are explained.
 
 
