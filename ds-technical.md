@@ -4,7 +4,6 @@
 * [Markdown Tutorial](http://markdowntutorial.com/)
 
 ## Unix - Bash 
-
 * [Bash Guide for Beginners](http://writers.fultus.com/garrels/ebooks/Machtelt_Garrels_Bash_Guide_for_Beginners_2nd_Ed.pdf): A 200-page PDF book.
 
 ## ssh
@@ -14,7 +13,6 @@
 * [Websites for you and your projects](https://pages.github.com/)
 
 ## Git
-
 * [Pro Git](http://git-scm.com/book): An excellent online book that teaches the Git concepts and code in an approachable and logical way. You will learn a lot even if you only read the first few chapters!
 * [Git Reference](http://gitref.org/): A handy reference guide for each command, including an explanation of the most common arguments.
 * [Git Tutorials (Atlassian)](https://www.atlassian.com/git/tutorial): It splits the difference between "Pro Git" and "Git Reference": less explanation than a book, but more explanation than a reference guide.
@@ -35,5 +33,9 @@ There are many good resources for learning Git. (Here's an excellent online book
 
 * [Introduction to Computation and Programming Using Python](http://planspace.org/20150111-a_great_python_book_explains_hash_tables/) Hash tables are explained.
 * [Survive Python by Aaron](https://survive-python.herokuapp.com/user/Aaron/)
+
+## Editor
+
+* [Setting up Sublime Text for Python](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 
 
