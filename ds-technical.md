@@ -34,5 +34,6 @@ There are many good resources for learning Git. (Here's an excellent online book
 ## Python
 
 * [Introduction to Computation and Programming Using Python](http://planspace.org/20150111-a_great_python_book_explains_hash_tables/) Hash tables are explained.
+* [Survive Python by Aaron](https://survive-python.herokuapp.com/user/Aaron/)
 
 
