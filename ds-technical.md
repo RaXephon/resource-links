@@ -8,6 +8,7 @@
 
 ## ssh
 * [Generating ssh Keys](https://help.github.com/articles/generating-ssh-keys/)
+* [How to Keep ssh Connections Alive in Linux](http://www.maketecheasier.com/keep-ssh-connections-alive-in-linux/)
 
 ## GitHub Pages
 * [Websites for you and your projects](https://pages.github.com/)
