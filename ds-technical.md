@@ -35,7 +35,7 @@ There are many good resources for learning Git. (Here's an excellent online book
 * [Survive Python by Aaron](https://survive-python.herokuapp.com/user/Aaron/)
 
 ## IPython
-* [IPython Notebook on a VPS(Virtual Private Server)](http://calebmadrigal.com/ipython-notebook-vps/)This is a guide to set up IPython Notebook on a Server - specifically, on a DigitalOcean VPS. This will allow you to access your iPython Notebooks from anywhere.
+* [IPython Notebook on a VPS (Virtual Private Server)](http://calebmadrigal.com/ipython-notebook-vps/)This is a guide to set up IPython Notebook on a Server - specifically, on a DigitalOcean VPS. This will allow you to access your iPython Notebooks from anywhere.
 
 ## Editor
 
