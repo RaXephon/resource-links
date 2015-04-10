@@ -45,8 +45,9 @@ There are many good resources for learning Git. (Here's an excellent online book
 
 ## Presentations
 
-* HTML-based presentation systems:
-[reveal.js](http://lab.hakim.se/reveal-js/#/)
-[Big](https://github.com/tmcw/big)
+HTML-based presentation systems:
+
+* [reveal.js](http://lab.hakim.se/reveal-js/#/)
+* [Big](https://github.com/tmcw/big)
 
 
