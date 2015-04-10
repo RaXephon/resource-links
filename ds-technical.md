@@ -43,4 +43,10 @@ There are many good resources for learning Git. (Here's an excellent online book
 
 * [Setting up Sublime Text for Python](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 
+## Presentations
+
+* HTML-based presentation systems:
+[reveal.js](http://lab.hakim.se/reveal-js/#/)
+[Big](https://github.com/tmcw/big)
+
 
