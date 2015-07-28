@@ -66,7 +66,7 @@ faculty_dict = { 'Ellenberg': [\
 ```
 Print the first 3 key and value pairs of the dictionary:
 
-> REPLACE THIS WITH YOUR RESPONSE
+>> REPLACE THIS WITH YOUR RESPONSE
 
 b)  The previous dictionary does not have the best design for keys.  Create a new dictionary with keys as:
 
@@ -81,10 +81,10 @@ professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn
 
 Print the first 3 key and value pairs of the dictionary:
 
-> REPLACE THIS WITH YOUR RESPONSE
+>> REPLACE THIS WITH YOUR RESPONSE
 
 c)  It looks like the current dictionary is sorted by first name.  Sort by last name and print the first 3 key and value pairs.  
 
-> REPLACE THIS WITH YOUR RESPONSE
+>> REPLACE THIS WITH YOUR RESPONSE
 
 Place your code in this file: q9_part3_dict.py
