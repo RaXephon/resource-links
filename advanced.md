@@ -9,7 +9,7 @@ The data file represents the [Biostats Faculty List at University of Pennsylvani
 This data is available in this file:  [faculty.csv]((q9_python/faculty.csv))
  
 
-# Part 1 - regular expressions
+###Part I - regular expressions
 
 # Use regular expressions to:
 # a) find number of occurrences for each of degrees listed:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
