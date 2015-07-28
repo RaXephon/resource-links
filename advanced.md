@@ -38,7 +38,7 @@ a)  Write email addresses from Part I to csv file
 
 Place your code in this file: q9_part2_csv.py
 
-Your file will look like this:
+Your file, emails.csv, will look like this:
 ```
 bellamys@mail.med.upenn.edu
 warren@upenn.edu
@@ -46,11 +46,9 @@ bryanma@upenn.edu
 ```
 
 
-  REPLACE THIS WITH YOUR RESPONSE
+### Part III - Dictionary
 
-# Part 3 - dictionary
-
-# Create a dictionary in the below format:
+a)  Create a dictionary in the below format:
 
 faculty_dict = { 'Ellenberg': [\
               ['Ph.D.', 'Professor', 'sellenbe@upenn.edu'],\
@@ -63,7 +61,9 @@ faculty_dict = { 'Ellenberg': [\
                             ]
             }
 
-  REPLACE THIS WITH YOUR RESPONSE
+Print the first 3 key, value pairs of the dictionary:
+
+> REPLACE THIS WITH YOUR RESPONSE
 
 # Part 4
 
