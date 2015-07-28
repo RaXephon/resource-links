@@ -29,13 +29,22 @@ d) Find how many different email domains there are (Ex:  mail.med.upenn.edu, upe
 
 >> REPLACE THIS WTIH YOUR RESPONSE
 
+Place your code in this file: q9_part1_regex.py
 
-# Part 2 - write to csv file
-# a)  write email addresses from Part 1 to csv file
 
-# bellamys@mail.med.upenn.edu
-# warren@upenn.edu
-# bryanma@upenn.edu
+###Part II - Write to CSV File
+
+a)  Write email addresses from Part I to csv file
+
+Place your code in this file: q9_part2_csv.py
+
+Your file will look like this:
+```
+bellamys@mail.med.upenn.edu
+warren@upenn.edu
+bryanma@upenn.edu
+```
+
 
   REPLACE THIS WITH YOUR RESPONSE
 
