@@ -17,13 +17,16 @@ a) Find how many different degrees there are, and their frequencies: Ex:  PhD, S
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
+
 b) Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
+
 c) Search for email addresses and put them in a list.  Print the list of email addresses.
 
 >> REPLACE THIS WTIH YOUR RESPONSE
+
 
 d) Find how many different email domains there are (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.).  Print the list of unique email domains.
 
