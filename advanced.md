@@ -9,22 +9,25 @@ The data file represents the [Biostats Faculty List at University of Pennsylvani
 This data is available in this file:  [faculty.csv]((q9_python/faculty.csv))
  
 
-###Part I - regular expressions
+###Part I - Regular Expressions
 
 Use regular expressions to:
 
-a) find number of occurrences for each of degrees listed:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
+a) Find how many different degrees there are, and their frequencies: Ex:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-b) find how many different titles are there, and their frequencies:  Ex:  Assistant Professor, Professor
+b) Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-c) search for email addresses and put them in a list.    
-d) How many different email domains are there (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.)
+c) Search for email addresses and put them in a list.  Print the list of email addresses.
 
-  REPLACE THIS WITH YOUR RESPONSE
+>> REPLACE THIS WTIH YOUR RESPONSE
+
+d) Find how many different email domains there are (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.).  Print the list of unique email domains.
+
+>> REPLACE THIS WTIH YOUR RESPONSE
 
 
 # Part 2 - write to csv file
