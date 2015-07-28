@@ -4,10 +4,10 @@
 ###Q9. [Regular Expressions, Dictionary, Writing to CSV File](q9_python/q9_advanced.py)
 This question has multiple parts, and will take **20-40 hours** to complete, depending on your python proficiency level.  Knowing these skills will be extremely beneficial during the first few weeks of the bootcamp.
 
-The data file represents the [Biostats faculty list at University of Pennsylvania](http://www.med.upenn.edu/cceb/biostat/faculty.shtml)
+The data file represents the [Biostats Faculty List at University of Pennsylvania](http://www.med.upenn.edu/cceb/biostat/faculty.shtml)
 
-# Source:  University of Pennsylvania - Biostatistics Faculty List
-# A file is provided for use: faculty.csv
+This data is available in this file:  [faculty.csv]((q9_python/faculty.csv))
+ 
 
 # Part 1 - regular expressions
 
