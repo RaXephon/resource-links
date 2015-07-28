@@ -13,15 +13,15 @@ This data is available in this file:  [faculty.csv]((q9_python/faculty.csv))
 
 Use regular expressions to:
 
-a) Find how many different degrees there are, and their frequencies: Ex:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
+#a) Find how many different degrees there are, and their frequencies: Ex:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-b) Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
+#b) Find how many different titles there are, and their frequencies:  Ex:  Assistant Professor, Professor
 
 >> REPLACE THIS WITH YOUR RESPONSE
 
-c) Search for email addresses and put them in a list.  Print the list of email addresses.
+#c) Search for email addresses and put them in a list.  Print the list of email addresses.
 
 >> REPLACE THIS WTIH YOUR RESPONSE
 
