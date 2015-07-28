@@ -49,7 +49,7 @@ bryanma@upenn.edu
 ### Part III - Dictionary
 
 a)  Create a dictionary in the below format:
-
+```
 faculty_dict = { 'Ellenberg': [\
               ['Ph.D.', 'Professor', 'sellenbe@upenn.edu'],\
               ['Ph.D.', 'Professor', 'jellenbe@mail.med.upenn.edu']
@@ -60,26 +60,26 @@ faculty_dict = { 'Ellenberg': [\
               ['Ph.D.', 'Professor', 'hongzhe@upenn.edu']
                             ]
             }
-
+```
 Print the first 3 key, value pairs of the dictionary:
 
 > REPLACE THIS WITH YOUR RESPONSE
 
-# Part 4
+b)  The previous dictionary does not have the best design for keys.  Create a new dictionary with keys as:
 
-# The previous dictionary does not have the best design for keys.  
-# Create a new dictionary as:
-
+```
 professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn.edu'],\
                 ('Jonas', 'Ellenberg'): ['Ph.D.', 'Professor', 'jellenbe@mail.med.upenn.edu'],\
                 ('Yimei', 'Li'): ['Ph.D.', 'Assistant Professor', 'liy3@email.chop.edu'],\
                 ('Mingyao','Li'): ['Ph.D.', 'Associate Professor', 'mingyao@mail.med.upenn.edu'],\
                 ('Hongzhe','Li'): ['Ph.D.', 'Professor', 'hongzhe@upenn.edu']
             }
+```
 
-  REPLACE THIS WITH YOUR RESPONSE
+Print the first 3 key and value pairs of the dictionary:
 
-# Part 5
-# looks like current dictionary is sorted by first name.  Sort by last name and print.
+> REPLACE THIS WITH YOUR RESPONSE
 
-  REPLACE THIS WITH YOUR RESPONSE
+c)  It looks like the current dictionary is sorted by first name.  Sort by last name and print the first 3 key and value pairs.  
+
+> REPLACE THIS WITH YOUR RESPONSE
