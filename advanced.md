@@ -11,13 +11,17 @@ This data is available in this file:  [faculty.csv]((q9_python/faculty.csv))
 
 ###Part I - regular expressions
 
-# Use regular expressions to:
-# a) find number of occurrences for each of degrees listed:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
-# b) find how many different titles are there, and their frequencies:  Ex:  Assistant Professor, Professor
-# c) search for email addresses and put them in a list.    
-# d) How many different email domains are there (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.)
+Use regular expressions to:
+a) find number of occurrences for each of degrees listed:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
+
+  | REPLACE THIS WITH YOUR RESPONSE
+
+b) find how many different titles are there, and their frequencies:  Ex:  Assistant Professor, Professor
+c) search for email addresses and put them in a list.    
+d) How many different email domains are there (Ex:  mail.med.upenn.edu, upenn.edu, email.chop.edu, etc.)
 
   REPLACE THIS WITH YOUR RESPONSE
+
 
 # Part 2 - write to csv file
 # a)  write email addresses from Part 1 to csv file
