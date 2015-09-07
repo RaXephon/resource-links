@@ -2,7 +2,7 @@
 
 # Instructions for Submitting Challenges
 
-* Submitting Files
+## Submitting Files
 Submit IPython notebook over *.py files.  Makes it easier to see all 3:  code, output & graphs
 
 
