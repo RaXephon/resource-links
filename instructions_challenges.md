@@ -2,8 +2,35 @@
 
 # Instructions for Submitting Challenges
 
-## Submitting Files
-Submit IPython notebook over *.py files.  Makes it easier to see all 3:  code, output & graphs
+### 1.  Submitting Files
+a)  Submit IPython notebook over *.py files.  Makes it easier to follow:  code, output & graphs
+b)  Submit 1 file.  Don't submit several versions of a file.
+
+
+### 2.  Labeling Challenges
+Label challenge numbers in bold.
+
+### 3.  Graphs
+All graphs should have a title.  Also, label both x and y axes.
+
+
+
+
+
+
+1.  Submit IPython notebook (instead of *.py files).  This makes it easier to follow the code, output and graphs.
+
+2.  Label your challenges, preferably in bold.
+
+3.  Graphs - All graphs should have a title.  Also, both x and y axes should have labels.
+
+4.  To compare results consistently, where applicable, use:  test_size=0.30, random_state=4444
+5.  Don't print copious output in your IPython notebook.  For dictionaries, print 1 or 2 key, value pairs.  Try to print, at most, 100 rows of data (of data frame or array).
+
+GitHub - notices
+
+GitHub folders:  use lower-case names
+
 
 
 ## Markdown
