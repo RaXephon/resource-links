@@ -4,6 +4,7 @@
 
 #### 1.  GitHub - notices
 Your GitHub settings should be set to receive email notifications by email.  Below are instructions on setting this up:
+
 1.  In GitHub, on upper right corner, click on your profile picture, then "Settings"
 2.  On left menu, under "Personal Settings", click on "Notification Center"
 3.  On right menu, under "Participating", make sure both boxes, "Email" and "Web" are checked.
