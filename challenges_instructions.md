@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 >b) All graphs should have a title.  Also, label both x and y axes.
 
 #### 6.  Comparing results
-To compare results consistently, where applicable, use:  test_size=0.30, random_state=4444.  You can always experiment with different test_size and random_state, but for submission purposes, use the given settings.
+To compare results consistently, where applicable, use:  test_size=0.30, random_state=4444.  You can always experiment with different test_size and random_state, but for submission purposes, use these given settings.
 
 #### 7.  Don't print copious output in your IPython notebook.  
 For dictionaries, print a few key/value pairs.  Try to print, at most, 100 rows of data (of data frame or array).
