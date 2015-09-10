@@ -1,8 +1,8 @@
 
 
-# Instructions for Submitting Challenges
+## Instructions for Submitting Challenges
 
-### 1.  GitHub Folder Naming Convention
+#### 1.  GitHub Folder Naming Convention
 Use lower-case names and underscores, preferably your first name.  (This is because GitHub folder/file names are case-sensitive.).  In the case there is someone in the class with your same first name, you can use:  firstname_lastname for folder name. 
 
 ### 1.  Submitting Files
