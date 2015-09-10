@@ -24,7 +24,8 @@ Label challenge numbers in bold.
 
 #### 5.  Graphs
 >a) To includes graphs in the IPython notebook, inlcude the following code:
-```%matplotlib inline
+```
+%matplotlib inline
 import matplotlib.pyplot as plt
 ```
 
