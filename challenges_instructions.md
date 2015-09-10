@@ -10,7 +10,7 @@ Your GitHub settings should be set to receive email notifications by email.  Bel
 3.  On right menu, under "Participating", make sure both boxes, "Email" and "Web" are checked.
 
 #### 2.  GitHub Folder Naming Convention
-Use lower-case names and underscores, preferably your first name.  (This is because GitHub folder/file names are case-sensitive.).  In the case there is someone in the class with your same first name, you can use:  firstname_lastname for folder name. 
+Use lower-case names and underscores, preferably your first name.  (This is because GitHub folder/file names are case-sensitive.)  In the case there is someone in the class with your same first name, you can use:  firstname_lastname for folder name. 
 
 #### 3.  Submitting Files
 a)  Submit IPython notebook for challenges instead of *.py files.  Makes it easier to follow:  code, output & graphs
