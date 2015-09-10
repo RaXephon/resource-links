@@ -23,7 +23,10 @@ Use lower-case names and underscores, preferably your first name.  (This is beca
 Label challenge numbers in bold.
 
 #### 5.  Graphs
->a) 
+>a) To includes graphs in the IPython notebook, inlcude the following code:
+```%matplotlib inline
+import matplotlib.pyplot as plt
+```
 
 >b) All graphs should have a title.  Also, label both x and y axes.
 
