@@ -5,10 +5,11 @@
 #### 1.  GitHub - notices
 Your GitHub settings should be set to receive email notifications by email.  Below are instructions on setting this up:
 
-a) In GitHub, on upper right corner, click on your profile picture, then "Settings"
-b) On left menu, under "Personal Settings", click on "Notification Center"
+  a) In GitHub, on upper right corner, click on your profile picture, then "Settings"
+  
+  b) On left menu, under "Personal Settings", click on "Notification Center"
 
-c. On right menu, under "Participating", make sure both boxes, "Email" and "Web" are checked.
+  c) On right menu, under "Participating", make sure both boxes, "Email" and "Web" are checked.
 
 #### 2.  GitHub Folder Naming Convention
 Use lower-case names and underscores, preferably your first name.  (This is because GitHub folder/file names are case-sensitive.)  In the case there is someone in the class with your same first name, you can use:  firstname_lastname for folder name. 
