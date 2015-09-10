@@ -17,13 +17,15 @@ Use lower-case names and underscores, preferably your first name.  (This is beca
 #### 3.  Submitting Files
 >a) Submit IPython notebook for challenges instead of *.py files.  Makes it easier to follow:  code, output & graphs.
 
->b) Submit 1 file.  (Don't submit several versions of files.)
+>b) Submit one file.  (Don't submit several versions of files.)
 
 #### 4.  Labeling Challenges
 Label challenge numbers in bold.
 
 #### 5.  Graphs
-All graphs should have a title.  Also, label both x and y axes.
+>a) 
+
+>b) All graphs should have a title.  Also, label both x and y axes.
 
 #### 6.  Comparing results
 To compare results consistently, where applicable, use:  test_size=0.30, random_state=4444.  You can always experiment with different test_size and random_state, but for submission purposes, use the given settings.
