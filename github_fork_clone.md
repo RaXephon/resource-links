@@ -59,6 +59,26 @@ upstream	https://github.com/thisismetis/ds5.git (fetch)
 upstream	https://github.com/thisismetis/ds5.git (push)
 ```
 
+### Sync repos
+$ git pull  (by default, it pulls from origin)
+$ git pull upstream master (we want to pull from master)
+
+```
+$ git pull upstream master
+remote: Counting objects: 55, done.
+remote: Compressing objects: 100% (31/31), done.
+remote: Total 55 (delta 9), reused 0 (delta 0), pack-reused 24
+Unpacking objects: 100% (55/55), done.
+From https://github.com/thisismetis/ds5
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> upstream/master
+Updating 73c9b7f..e2fa70b
+Fast-forward
+...
+```
+
+
+
 
 
 
