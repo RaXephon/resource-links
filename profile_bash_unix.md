@@ -1,4 +1,4 @@
-Set global bash profile (run once and the setup will be retained)
+Set **global bash profile** (run once and the setup will be retained)
 
 ```
 $ pwd
