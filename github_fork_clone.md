@@ -63,7 +63,7 @@ upstream	https://github.com/thisismetis/ds5.git (push)
 --
 ## Sync repos
 
-** Always "git pull" before sending up any changes **
+**Always "git pull" before sending up any changes**
 
 $ git pull  (by default, it pulls from origin)
 
@@ -86,6 +86,7 @@ Fast-forward
 
 git push or git push origin master
 change from metis (master) down to local (my computer) and up to origin (me/ds5)
+
 `$ git push`
 ```
 warning: push.default is unset; its implicit value is changing in
