@@ -1,4 +1,4 @@
-### Fork a repo, clone a repo, set upstream
+## Fork a repo, clone a repo, set upstream
 
 #### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
@@ -30,6 +30,8 @@ $ ls
 $ git clone https://github.com/reshama/ds5.git
 $ cd ds5
 ```
+--
+## Changes to repo; Syncing
 
 If there are changes to the original repo, how do you get them?  You need to tell your local repo that it can also get updates from the original.
 
