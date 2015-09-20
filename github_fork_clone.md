@@ -1,4 +1,4 @@
-## Fork a repo, clone a repo, set upstream
+## Fork a repo; Clone a repo
 
 #### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
@@ -31,7 +31,7 @@ $ git clone https://github.com/reshama/ds5.git
 $ cd ds5
 ```
 --
-## Changes to repo; Syncing
+## Set upstream
 
 If there are changes to the original repo, how do you get them?  You need to tell your local repo that it can also get updates from the original.
 
@@ -60,8 +60,8 @@ origin	https://github.com/reshama/ds5.git (push)
 upstream	https://github.com/thisismetis/ds5.git (fetch)
 upstream	https://github.com/thisismetis/ds5.git (push)
 ```
-
-### Sync repos
+--
+## Sync repos
 $ git pull  (by default, it pulls from origin)
 $ git pull upstream master (we want to pull from master)
 
@@ -78,7 +78,11 @@ Updating 73c9b7f..e2fa70b
 Fast-forward
 ...
 ```
+`$ git status`
 
+git push or git push origin master
+change from metis (master) down to local (my computer) and up to origin (me/ds3)
+`$ git push`
 
 
 
