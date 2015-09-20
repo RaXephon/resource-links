@@ -3,7 +3,7 @@
 
 `$ pwd`
 
-###### list all packages
+**list all packages**
 ```
 $ pip freeze
 ```
