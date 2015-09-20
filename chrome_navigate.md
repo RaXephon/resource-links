@@ -1,4 +1,5 @@
+**move (tab) over browser tabs**
+ctrl + tab              
 
-ctrl + tab              move (tab) over browser tabs
-
-command + tab           move (tab) across applications
+**move (tab) across applications**
+command + tab           
