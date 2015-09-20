@@ -1,7 +1,13 @@
 
-######print working directory
+###### print working directory
 
 `$ pwd`
+
+###### list all packages
+```
+$ pip freeze
+```
+
 
 ```
 # get number of lines in file:  wc -l filename.txt
