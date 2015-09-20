@@ -8,6 +8,14 @@
 $ pip freeze
 ```
 
+**delete directory**
+```
+$ rmdir ds3     # only removes empty directories
+rmdir: ds3: Directory not empty
+
+$ rm -rf ds3    # rf = recursive function ; removes non-empty directories
+```
+
 
 ```
 # get number of lines in file:  wc -l filename.txt
