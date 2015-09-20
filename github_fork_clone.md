@@ -2,7 +2,8 @@
 
 #### Step 1:
 In my personal account on GitHub, go to repo to be cloned.
-Go to repo:  https://github.com/thisismetis/ds5
+
+In this example, it is:  https://github.com/thisismetis/ds5
 
 #### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
