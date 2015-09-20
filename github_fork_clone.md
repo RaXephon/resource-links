@@ -1,6 +1,6 @@
 ### Fork a repo, clone a repo, set upstream
 
-#### Step 1:
+#### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
 
 In this example, it is:  https://github.com/thisismetis/ds5
@@ -10,7 +10,7 @@ Upper right of github page:  "Fork" the repo
 
 Go to my forked repo: https://github.com/reshama/ds5
  
-#### Step 3:
+#### Step 3:  Clone repo
 Clone that forked repo (which is now under my name)
 
 In right column, find the link to **HTTPS clone URL** and copy that URL to be cloned.
