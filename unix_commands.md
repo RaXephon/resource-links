@@ -1,7 +1,8 @@
 
-###### print working directory
-
-`$ pwd`
+**print working directory**
+```
+$ pwd
+```
 
 **list all packages**
 ```
