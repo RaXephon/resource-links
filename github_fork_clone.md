@@ -7,10 +7,12 @@ In this example, it is:  https://github.com/thisismetis/ds5
 
 #### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
+
 Go to my forked repo: https://github.com/reshama/ds5
  
 #### Step 3:
 Clone that forked repo (which is now under my name)
+
 In right column, find the link to **HTTPS clone URL** and copy that URL to be cloned.
 
 In terminal: 
