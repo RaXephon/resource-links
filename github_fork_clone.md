@@ -63,7 +63,7 @@ upstream	https://github.com/thisismetis/ds5.git (push)
 --
 ## Sync repos
 
-** Always "git pull" before sending up any changes
+** Always "git pull" before sending up any changes **
 
 $ git pull  (by default, it pulls from origin)
 
