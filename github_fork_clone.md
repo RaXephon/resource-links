@@ -121,10 +121,41 @@ To https://github.com/reshama/ds5.git
 ```
 
 **Do this one time only**
+
 `$ git config --global push.default simple`
 
+## Practice - let's add a file
+```
+$ cd ds5/challenges/00-practice
+$ mkdir reshama
+$ cd reshama
+```
 
+Make a small file
+Redirect standard output to a file called “text.txt”
+```
+$ echo "Hello! Nice to meet you!" > test.txt
+echo "Hello! Nice to meet you" > test.txt
 
+$ cat test.txt 
+Hello! Nice to meet you
+
+$ git status
+```
+
+### Adding, committing a file
+```
+$ git add test.txt 
+$ git status
+$ git commit -m "add a simple file"
+$ git push
+```
+
+#### Sync repo
+```
+$ git pull upstream master
+$ git push
+```
 
 
 
