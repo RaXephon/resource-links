@@ -1,7 +1,9 @@
-```
-# print working directory
-pwd
 
+# print working directory
+
+`pwd`
+
+```
 # get number of lines in file:  wc -l filename.txt
 wc -l tweets.json
 
