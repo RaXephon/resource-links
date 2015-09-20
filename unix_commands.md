@@ -1,7 +1,7 @@
 
-# print working directory
+####print working directory
 
-`pwd`
+`$ pwd`
 
 ```
 # get number of lines in file:  wc -l filename.txt
