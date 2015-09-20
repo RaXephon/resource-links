@@ -8,11 +8,8 @@ wc -l tweets.json
 # get line numbers of all files in directory
 wc -l *
 
-
-grep -R "_django1" ./*   # look for text within a directory and sub-dirs.
-
-
-ls -alF   			# prints vertically, specifies which are directories
+# prints vertically, specifies which are directories
+ls -alF   			
 
 # remove first line of file
 tail -n +2 mailing100k.csv > mail100k.csv
@@ -26,4 +23,7 @@ tail -n +1 mail100k.csv | head -n 20000 > mail20k.csv
 # pull data from url
 curl https://archive.ics.uci.edu/ml/machine-learning-databases/voting-records/house-votes-84.data > house_votes_84.csv
 
+
+# look for text within a directory and sub-dirs
+grep -R "_django1" ./*   
 ```
