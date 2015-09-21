@@ -42,9 +42,9 @@ reshama$ git checkout -b test          # create a branch
 reshama$ git branch
 * master
   update_v4
+```
+```
 reshama$ git checkout update_v4
-```
-```
 Switched to branch 'update_v4'
 ```
 
