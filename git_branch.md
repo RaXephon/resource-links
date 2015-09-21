@@ -1,19 +1,13 @@
 ### Git Branch
 ```
-$ metisgh
-$ ls
-$ cd dsp
-$ pwd
+reshama$ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/dsp
-
-$ clear
 
 reshama$ git branch          # list the branches in repo
   master
 * update_v4
 
-
-$ git checkout master        # switch to a different branch
+reshama$ git checkout master      # switch to a different branch
 
 reshama$ git branch          # switched to “master” branch
 * master
