@@ -45,7 +45,7 @@ reshama$ git branch
 reshama$ git checkout update_v4
 ```
 ```
->Switched to branch 'update_v4'
+Switched to branch 'update_v4'
 ```
 
 ```
