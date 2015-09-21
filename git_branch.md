@@ -18,22 +18,20 @@ $ git checkout master        # switch to a different branch
 reshama$ git branch          # switched to “master” branch
 * master
   update_v4
-reshama$
-
 
 reshama$ git branch test     # create “test” branch
+
 reshama$ git branch
 * master
   test
   update_v4
-reshama$
 
 reshama$ git branch -D test          # delete a branch
 Deleted branch test (was d58491d).
+
 reshama$ git branch
 * master
   update_v4
-reshama$
 
 reshama$ git checkout -b test          # create a branch
 ```
