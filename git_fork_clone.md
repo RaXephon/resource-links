@@ -157,6 +157,14 @@ $ git pull upstream master
 $ git push
 ```
 
+#### Pull Request
+
+Go to your forked version
+https://github.com/reshama/ds5
+
+Right column, go to "Pull request"
+
+
 
 
 
