@@ -165,10 +165,13 @@ https://github.com/reshama/ds5
 Right column, go to "New pull request"
 
 Click on green "Create pull request"
+
 Fill in info at "Leave a comment"
 
 Click on green "Create pull request" at bottom of page.
+
 Click on green "Merge pull request"
+
 Click on green "Confirm merge"
 
 Look in this repo and see that file has been updated.
