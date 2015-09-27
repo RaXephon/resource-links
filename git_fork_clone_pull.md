@@ -194,7 +194,7 @@ $ git log               # gives log of commits
 
 >**remote**  origin
 
-**branch**  master
+>**branch**  master
 
 
 **Note:**  
