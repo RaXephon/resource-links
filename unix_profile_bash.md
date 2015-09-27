@@ -14,7 +14,8 @@ alias rm='rm -i'
 ```
 
 >'ls -G'  will print directories in blue
-> 'rm -i'  will prompt user to confirm if file should be deleted
+
+>'rm -i'  will prompt user to confirm if file should be deleted
 
 --
 
