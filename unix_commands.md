@@ -14,6 +14,12 @@ $ pip freeze
 touch test.txt  # creates blank file
 ```
 
+**print history of commands**
+```
+$ less .bash_history     # list of all commands typed in, last 100
+$ history
+```
+
 **delete directory**
 ```
 $ rmdir ds3     # only removes empty directories
