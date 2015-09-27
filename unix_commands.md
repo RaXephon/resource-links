@@ -11,7 +11,7 @@ $ pip freeze
 
 **create a blank file**
 ```
-touch test.txt  # creates blank file
+$ touch test.txt  # creates blank file
 ```
 
 **print history of commands**
@@ -20,10 +20,9 @@ $ less .bash_history     # list of all commands typed in, last 100
 $ history
 ```
 
-** grep search**
+**grep search**
 ```
-# look for text within a directory and sub-dirs
-grep -R "_django1" ./*  
+$grep -R "_django1" ./*          # look for text within a directory and sub-dirs
 ```
 
 **delete a directory**
@@ -36,7 +35,7 @@ $ rm -rf ds3    # rf = recursive function ; removes non-empty directories
 
 **remove first line of file**
 ```
-tail -n +2 mailing100k.csv > mail100k.csv
+$ tail -n +2 mailing100k.csv > mail100k.csv
 ```
 
 **get number of lines in file**
@@ -45,16 +44,21 @@ $ wc -l filename.txt    # get number of lines in a specific file
 $ wc -l tweets.json
 
 $ wc -l *               # get line numbers of all files in directory
-
 ```
-# prints vertically, specifies which are directories
-ls -alF   			
 
-# take lines, after row 20,000 and put in new file
-tail -n +20001 mail100k.csv > mail80k.csv
+prints vertically, specifies which are directories
+```
+$ ls -alF   			
+```
 
-# take lines 1 to 20,000 and put in new file
-tail -n +1 mail100k.csv | head -n 20000 > mail20k.csv
+take lines, after row 20,000 and put in new file
+````
+$ tail -n +20001 mail100k.csv > mail80k.csv
+```
+
+take lines 1 to 20,000 and put in new file
+```
+$ tail -n +1 mail100k.csv | head -n 20000 > mail20k.csv
 ```
 
 
