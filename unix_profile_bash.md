@@ -1,4 +1,4 @@
-Set **global bash profile** (run once and the setup will be retained)
+### Setting **global bash profile** (run once and the setup will be retained)
 
 ```
 $ pwd
@@ -7,8 +7,15 @@ $ emacs ~/.bash_profile
 $ source ~/.bash_profile
 
 ```
-
-Set local session bash profile (must be re-run each time terminal is started)
+Edit .bash_profile
+```
+alias ls='ls -G'
+alias rm='rm -i'
+```
+'ls -G'  will print directories in blue
+'rm -i'  will prompt user to confirm if file should be deleted
+--
+### Setting **local session bash profile** (must be re-run each time terminal is started)
 
 ```
 $ pwd
