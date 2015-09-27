@@ -7,15 +7,14 @@ $ emacs ~/.bash_profile           # edit file
 $ source ~/.bash_profile          # run file
 
 ```
-Edit .bash_profile
+Edit .bash_profile by adding these aliases
 ```
 alias ls='ls -G'
 alias rm='rm -i'
 ```
 
-'ls -G'  will print directories in blue
-
-'rm -i'  will prompt user to confirm if file should be deleted
+>'ls -G'  will print directories in blue
+> 'rm -i'  will prompt user to confirm if file should be deleted
 
 --
 
