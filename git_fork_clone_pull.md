@@ -193,6 +193,7 @@ $ git log               # gives log of commits
 `$ git remote origin master`
 
 >**remote**  origin
+
 **branch**  master
 
 
