@@ -1,4 +1,6 @@
-### Setting **global bash profile** (run once and the setup will be retained)
+#### Setting **global bash profile** 
+
+(run once and the setup will be retained)
 
 ```
 $ pwd                             # ensure you are in the home directory
@@ -19,7 +21,9 @@ alias rm='rm -i'
 
 --
 
-### Setting **local session bash profile** (must be re-run each time terminal is started)
+#### Setting **local session bash profile** 
+
+(must be re-run each time terminal is started)
 
 ```
 $ pwd
