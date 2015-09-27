@@ -157,7 +157,7 @@ $ git pull upstream master
 $ git push
 ```
 
-#### Pull Request
+## Pull Request
 
 Go to your forked version
 https://github.com/reshama/ds5
@@ -172,8 +172,31 @@ Click on green "Create pull request" at bottom of page.
 
 Look in this repo and see that file has been updated.
 
+--
+
+## Git Commands
+
+```
+$ git remote
+origin
+upstream
+
+$ git remote -v
+origin	https://github.com/reshama/ds5.git (fetch)
+origin	https://github.com/reshama/ds5.git (push)
+upstream	https://github.com/thisismetis/ds5.git (fetch)
+upstream	https://github.com/thisismetis/ds5.git (push)
+
+$ git log               # gives log of commits
+
+```
+`$ git remote origin master`
+remote:  origin
+branch:  master
 
 
+**Note:**  
+GitHub:  commit every day, green dots show up on user home page; looks good for potential employers.
 
 
 
