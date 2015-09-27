@@ -1,10 +1,10 @@
 ### Setting **global bash profile** (run once and the setup will be retained)
 
 ```
-$ pwd
+$ pwd                             # ensure you are in the home directory
 /Users/reshamashaikh
-$ emacs ~/.bash_profile
-$ source ~/.bash_profile
+$ emacs ~/.bash_profile           # edit file
+$ source ~/.bash_profile          # run file
 
 ```
 Edit .bash_profile
@@ -14,6 +14,7 @@ alias rm='rm -i'
 ```
 
 'ls -G'  will print directories in blue
+
 'rm -i'  will prompt user to confirm if file should be deleted
 
 --
