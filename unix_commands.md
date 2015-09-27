@@ -9,6 +9,11 @@ $ pwd
 $ pip freeze
 ```
 
+**create a blank file**
+```
+touch test.txt  # creates blank file
+```
+
 **delete directory**
 ```
 $ rmdir ds3     # only removes empty directories
