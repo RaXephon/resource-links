@@ -23,8 +23,7 @@ From https://github.com/thisismetis/ds5
  * [new branch]      master     -> upstream/master
 Updating 73c9b7f..e2fa70b
 Fast-forward
-...
-
+```
 
 ## Practice - let's add a file
 ```
@@ -91,9 +90,8 @@ upstream	https://github.com/thisismetis/ds5.git (push)
 
 $ git log               # gives log of commits
 
+$ git remote origin master
 ```
-`$ git remote origin master`
-
 >**remote**  origin
 
 >**branch**  master
@@ -101,10 +99,4 @@ $ git log               # gives log of commits
 
 **Note:**  
 GitHub:  commit every day, green dots show up on user home page; looks good for potential employers.
-
-
-
-
-
-
 
