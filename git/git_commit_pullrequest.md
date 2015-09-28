@@ -13,7 +13,6 @@ $ git pull  (by default, it pulls from origin)
 
 $ git pull upstream master (we want to pull from master)
 
-```
 $ git pull upstream master
 remote: Counting objects: 55, done.
 remote: Compressing objects: 100% (31/31), done.
