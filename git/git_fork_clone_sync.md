@@ -1,4 +1,4 @@
-## Fork a repo; Clone a repo
+## Fork, Clone & Sync a repo
 
 #### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
@@ -123,85 +123,6 @@ To https://github.com/reshama/ds5.git
 **Do this one time only**
 
 `$ git config --global push.default simple`
-
-## Practice - let's add a file
-```
-$ cd ds5/challenges/00-practice
-$ mkdir reshama
-$ cd reshama
-```
-
-Make a small file
-Redirect standard output to a file called “text.txt”
-```
-$ echo "Hello! Nice to meet you!" > test.txt
-echo "Hello! Nice to meet you" > test.txt
-
-$ cat test.txt 
-Hello! Nice to meet you
-
-$ git status
-```
-
-### Adding, committing a file
-```
-$ git add test.txt 
-$ git status
-$ git commit -m "add a simple file"
-$ git push
-```
-
-#### Sync repo
-```
-$ git pull upstream master
-$ git push
-```
-
-## Pull Request
-
-Go to your forked version
-https://github.com/reshama/ds5
-
-Right column, go to "New pull request"
-
-Click on green "Create pull request"
-
-Fill in info at "Leave a comment"
-
-Click on green "Create pull request" at bottom of page.
-
-Look in this repo and see that file has been updated.
-
---
-
-## Git Commands
-
-```
-$ git remote
-origin
-upstream
-
-$ git remote -v
-origin	https://github.com/reshama/ds5.git (fetch)
-origin	https://github.com/reshama/ds5.git (push)
-upstream	https://github.com/thisismetis/ds5.git (fetch)
-upstream	https://github.com/thisismetis/ds5.git (push)
-
-$ git log               # gives log of commits
-
-```
-`$ git remote origin master`
-
->**remote**  origin
-
->**branch**  master
-
-
-**Note:**  
-GitHub:  commit every day, green dots show up on user home page; looks good for potential employers.
-
-
-
 
 
 
