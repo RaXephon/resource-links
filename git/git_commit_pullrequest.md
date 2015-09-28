@@ -1,9 +1,13 @@
 ## Git:  Add, Commit a File & Pull Request
 
 --
+
 ## Sync repos
 
 **Always "git pull" before sending up any changes**
+```
+$ pwd
+/Users/reshamashaikh/_ds/metis/metisgh/ds5
 
 $ git pull  (by default, it pulls from origin)
 
