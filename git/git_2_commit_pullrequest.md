@@ -42,13 +42,29 @@ $ cat test.txt
 Hello! Nice to meet you
 
 $ git status
+
+$ git log                              # lists past commits
+
+$ git rm myfile.txt                    # use this command to delete a file in repo (not $ rm filename...)
+
+$ git cp myfile.txt newfile.txt        # use this command to copy a file in repo (not $ cp filename...)
+
+$ git                                  # lists commonly used git commands
 ```
 
 ### Adding, committing a file
 ```
-$ git add test.txt 
+$ git add test.txt                     # sets working copy to staged copy
 $ git status
-$ git commit -m "add a simple file"
+$ git commit -m "add a simple file"    # staged copy to revision history
+$ git push                             # send it to (my forked) repo
+```
+
+### Adding, committing multiple (all) files in a directory
+```
+$ git add .
+$ git status
+$ git commit -m "adding all files in this repo"
 $ git push
 ```
 
