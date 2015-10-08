@@ -1,4 +1,4 @@
-**What is the difference between statistics and machine learning?**
+###What is the difference between statistics and machine learning?
 
 [Why a Mathematician, Statistician & Machine Learner Solve the Same Problem Differently](http://www.galvanize.com/blog/2015/08/26/why-a-mathematician-statistician-machine-learner-solve-the-same-problem-differently-2/#.Vha0zqJ33MP)
 
