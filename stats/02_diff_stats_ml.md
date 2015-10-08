@@ -5,10 +5,10 @@
 #### Goals by Discipline
 
  * Statistician
-    * predict an interation between variables with some degree of certainty (we are never 100% certain about anything)
+    * predict an interaction between variables with some degree of certainty (we are never 100% certain about anything)
 
  * Machine Learners - want to build algorithms that predict, classify and cluster with the most accuracy
-    * operate without uncertainty or assumptions, continuously learning in order to improve their accuracy score.
+    * operate without uncertainty or assumptions, continuously learning in order to improve their accuracy score
 
 #### Culture Differences in Machine Learners' and Statisticians' Approaches
 
