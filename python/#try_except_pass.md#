@@ -1,0 +1,12 @@
+```
+def sanitize_year(year):
+    try:   # try except error
+        cleaned_year = int(year)
+    except ValueError:
+    	pass   # this is equivalent to:  return none OR return "Joe" OR return "9999"
+	:
+			            # cool, it's an integer, but is it > 1950 ?
+				            if cleaned_year > 1950:
+					                return cleaned_year
+
+```

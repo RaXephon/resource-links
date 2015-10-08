@@ -18,6 +18,10 @@
 
  * Machine Learners
     * want to build algorithms that predict, classify and cluster with the most accuracy
-    
+
+![](stats_vs_ml.png?raw=true)
+
+
 [logo]: https://github.com/reshama/resource-links/blob/master/stats/stats_vs_ml.png "Logo Title Text 2"
+
 
