@@ -65,6 +65,8 @@ Total 9 (delta 5), reused 0 (delta 0)
 To https://github.com/reshama/dsp.git
    a7e3ca7..abea30f  update_v4 -> update_v4
 ```
+
+### Committing by Qualifying Remote Name and Branch Name
 ```
-reshama$
+reshama$  $ git commit remotename branchname -m "message"
 ```
