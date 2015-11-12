@@ -1,4 +1,6 @@
 
+*Entropy*
+
 
 *Ensemble Methods*
 
