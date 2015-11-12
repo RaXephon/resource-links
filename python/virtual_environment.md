@@ -1,8 +1,8 @@
 ###Virtual Environment
 
-  1. `00:00 ~ $  python --version` - Outputs the current version of Python in this system package, should be `Python 2.7.6`.
-  2. `00:00 ~ $  mkdir mlworkshop` - Creates a directory (folder) named `mlworkshop`
-  3. `00:00 ~ $  cd mlworkshop` - Changes the current path to the `mlworkshop` directory just created
+  1. `$  python --version` - Outputs the current version of Python in this system package, should be `Python 2.7.6`.
+  2. `$  mkdir mlworkshop` - Creates a directory (folder) named `mlworkshop`
+  3. `$  cd mlworkshop` - Changes the current path to the `mlworkshop` directory just created
   4. `00:00 ~/mlworkshop $  virtualenv --system-site-packages --python python3 venv` - Creates a Python 3 virtual environment named `venv`
   5. `00:00 ~/mlworkshop $  source venv/bin/activate` - Activates the `venv` virtual environment just created
   6. `00:00 ~/mlworkshop $  python --version` - Outputs the current version of Python in this virtual environment, should be `Python 3.4.0`.
