@@ -51,6 +51,12 @@ prints vertically, specifies which are directories
 $ ls -alF   			
 ```
 
+print directory contents, with directory names in blue
+```
+$ ls -Gpl
+```
+
+
 take lines, after row 20,000 and put in new file
 ````
 $ tail -n +20001 mail100k.csv > mail80k.csv
