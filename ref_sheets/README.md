@@ -30,3 +30,4 @@
 
 [ML - Explains Different Algorithms with Examples](https://dzone.com/refcardz/machine-learning-predictive)
 
+[Microsoft ML Algorithm Cheat Sheet Reference ](https://azure.microsoft.com/en-in/documentation/articles/machine-learning-algorithm-cheat-sheet/)
