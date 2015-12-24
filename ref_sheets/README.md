@@ -1,6 +1,6 @@
-###Cheat Sheets
+####Cheat Sheets
 
-###References
+####Python References
 
 [Python Cheat Sheet](https://s3.amazonaws.com/michael-kennedy/downloads/DM/python_cheat_sheet.pdf)
 
@@ -21,3 +21,10 @@
 [OverAPI's Python Cheat Sheet](http://overapi.com/python/)
 
 [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+
+*****
+
+####Machine Learning References
+
+[Choosing the Right ML Algorithm](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
