@@ -16,4 +16,6 @@
 
 [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
+[Python Decorators](http://hairysun.com/downloads/DecoratorHandout.pdf)
+
 [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
