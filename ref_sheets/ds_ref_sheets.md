@@ -8,4 +8,6 @@
 
 [Dave Child Python Cheat Sheet](http://www.cheatography.com/davechild/cheat-sheets/python/pdf/)
 
+[Python Language and Syntax Cheat Sheet](http://ddi.ifi.lmu.de/probestudium/2013/ws-i-3d-programmierung/tutorials/python-referenzkarte)
+
 [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
