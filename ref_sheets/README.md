@@ -1,8 +1,10 @@
-###Cheat Sheets
+####Cheat Sheets
 
-###References
+####Python References
 
 [Python Cheat Sheet](https://s3.amazonaws.com/michael-kennedy/downloads/DM/python_cheat_sheet.pdf)
+
+[Python 2.4 Quick Reference Card](http://www.cheat-sheets.org/saved-copy/PQRC-2.4-A4-latest.pdf)
 
 [Python 2.7 Quick Sheets](http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf)
 
@@ -14,4 +16,17 @@
 
 [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
+[Python Decorators](http://hairysun.com/downloads/DecoratorHandout.pdf)
+
+[OverAPI's Python Cheat Sheet](http://overapi.com/python/)
+
 [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+
+*****
+
+####Machine Learning References
+
+[Choosing the Right ML Algorithm](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
+[ML - Explains Different Algorithms with Examples](https://dzone.com/refcardz/machine-learning-predictive)
+
