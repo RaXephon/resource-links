@@ -20,7 +20,11 @@
 
 [OverAPI's Python Cheat Sheet](http://overapi.com/python/)
 
+*****
+
 [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+
+[24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
 
 *****
 
