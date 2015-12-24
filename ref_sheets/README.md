@@ -28,3 +28,5 @@
 
 [Choosing the Right ML Algorithm](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
+[ML - Explains Different Algorithms with Examples](https://dzone.com/refcardz/machine-learning-predictive)
+
