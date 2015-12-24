@@ -38,3 +38,7 @@
 [Microsoft ML Algorithm Cheat Sheet Reference ](https://azure.microsoft.com/en-in/documentation/articles/machine-learning-algorithm-cheat-sheet/)
 
 [Soul Machine Cheat Sheets 135 pages](soulmachine_ml_135_pages.pdf)
+
+[Laura Hamilton Algorithm and Task Match](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet)
+
+
