@@ -5,6 +5,8 @@
 
 [Support Vector Machines - notebook](https://github.com/podopie/DAT18NYC/blob/master/classes/14-support_vector_machines.ipynb)
 
+Decision Tree using Conda Virtual Environment
+
 
 *****
 
