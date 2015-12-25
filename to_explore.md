@@ -8,6 +8,19 @@
 Decision Tree using Conda Virtual Environment
 [Installing PyDot](https://github.com/thisismetis/ds2/blob/master/lectures/mcnulty/w4d5_Decision_Tree_Challenges.md)
 
+<br>
+#####Regression
+
+Example on sklearn
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
+
+NYU Class
+http://people.stern.nyu.edu/jsimonof/classes/2301/syllabus.html
+
+http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/
+
+
+
 *****
 
 ####RStats
