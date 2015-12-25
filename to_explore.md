@@ -42,3 +42,14 @@ Bokeh is a Python interactive visualization library that targets modern web brow
 
 [resume in LaTeX](https://www.overleaf.com/gallery/tagged/cv#.VnyRZcpOlso)
 
+*****
+
+####Tests on GitHub
+
+[TestRail](http://www.gurock.com/testrail/pricing/)<br>
+for a fee
+
+[PHP library to create, display, and grade exams](https://github.com/fcosrno/exam-php)
+
+
+
