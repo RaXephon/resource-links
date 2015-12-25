@@ -3,6 +3,8 @@
 
 [Getting started with Latent Dirichlet Allocation in Python](http://chrisstrelioff.ws/sandbox/2014/11/13/getting_started_with_latent_dirichlet_allocation_in_python.html)
 
+[Support Vector Machines - notebook](https://github.com/podopie/DAT18NYC/blob/master/classes/14-support_vector_machines.ipynb)
+
 
 *****
 
