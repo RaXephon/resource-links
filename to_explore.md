@@ -60,7 +60,7 @@ Bokeh is a Python interactive visualization library that targets modern web brow
 *****
 
 [resume in LaTeX](https://www.overleaf.com/gallery/tagged/cv#.VnyRZcpOlso)<br>
-
+```
 Overleaf - browser based, online editor
 Share LaTeX
 can also make Power Point presentations
@@ -70,6 +70,7 @@ good typography
 it doesn't systematically screw things up like it happens in Word (font size, etc.)
 
 can get good version control.
+```
 
 *****
 
