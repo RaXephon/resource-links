@@ -6,6 +6,11 @@
 
 *****
 
+
+[Filling in Python’s gaps in statistics packages with Rmagic]
+(http://www.randalolson.com/2013/01/14/filling-in-pythons-gaps-in-statistics-packages-with-rmagic/)
+To install rpy2, simply use pip install.
+
 [Conda - Virtual Environment](http://conda.pydata.org/docs/using/envs.html)
 
 [AWS Getting Started](http://aws.amazon.com/getting-started/)
