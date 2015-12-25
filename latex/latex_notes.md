@@ -1,9 +1,13 @@
 
 
-Option C                    ---> rotate pdf file
+Option C<br>
+rotate pdf file
 
-Command Shift click --> toggle between tex and pdf files
+Command Shift click<br>
+toggle between tex and pdf files
 
-Command T              --> run tex file
+Command T<br>
+run tex file
 
-Command Shift {       -->  comment
+Command Shift {  <br>
+comment
