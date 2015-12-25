@@ -11,10 +11,10 @@ Decision Tree using Conda Virtual Environment
 <br>
 #####Regression
 
-Example on sklearn
+Example on sklearn<br>
 http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
 
-NYU Class
+NYU Class<br>
 http://people.stern.nyu.edu/jsimonof/classes/2301/syllabus.html
 
 http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/
