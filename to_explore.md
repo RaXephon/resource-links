@@ -19,6 +19,10 @@ http://people.stern.nyu.edu/jsimonof/classes/2301/syllabus.html
 
 http://people.stern.nyu.edu/jsimonof/classes/2301/pdf/
 
+<br>
+#####Logistic Regression<br>
+https://en.wikipedia.org/wiki/Logistic_regression
+
 
 
 *****
