@@ -6,7 +6,7 @@
 [Support Vector Machines - notebook](https://github.com/podopie/DAT18NYC/blob/master/classes/14-support_vector_machines.ipynb)
 
 Decision Tree using Conda Virtual Environment
-
+[Installing PyDot](https://github.com/thisismetis/ds2/blob/master/lectures/mcnulty/w4d5_Decision_Tree_Challenges.md)
 
 *****
 
