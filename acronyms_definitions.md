@@ -1,5 +1,7 @@
 ###Acronyms & Definitions
 
+**Apache**<br>
+is a freely available Web server that is distributed under an "open source" license. Version 2.0 runs on most UNIX-based operating systems (such as Linux, Solaris, Digital UNIX and AIX), on other UNIX/POSIX-derived systems (such as Rhapsody, BeOS, and BS2000/OSD), on AmigaOS, and on Windows 2000
 
 **HDFS**<br>
 hadoop filesystem
