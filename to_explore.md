@@ -6,10 +6,15 @@
 
 *****
 
-
+####RStats
 [Filling in Python’s gaps in statistics packages with Rmagic]
 (http://www.randalolson.com/2013/01/14/filling-in-pythons-gaps-in-statistics-packages-with-rmagic/)
 To install rpy2, simply use pip install.
+
+[Ita's notebook](https://github.com/thisismetis/ds4/blob/master/investigations/rpy2/Demo.ipynb)
+
+<br>
+--
 
 [Conda - Virtual Environment](http://conda.pydata.org/docs/using/envs.html)
 
