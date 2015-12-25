@@ -1,5 +1,10 @@
 
+####Machine Learning
 
+[Getting started with Latent Dirichlet Allocation in Python](http://chrisstrelioff.ws/sandbox/2014/11/13/getting_started_with_latent_dirichlet_allocation_in_python.html)
+
+
+*****
 
 [Conda - Virtual Environment](http://conda.pydata.org/docs/using/envs.html)
 
