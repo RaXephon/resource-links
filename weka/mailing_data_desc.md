@@ -1,4 +1,4 @@
-
+```
 The "mailing" data represent a subset of attributes from a real direct
 marketing campaign.  Each record represents an individual who was
 targeted with a direct marketing offer.  The offer was a solicitation
@@ -17,3 +17,5 @@ pepstrfl: flag indicating a star donator
 glast: amount of last gift
 gavr: amount of average gift
 class: whether or not they gave in this campaign
+
+```
