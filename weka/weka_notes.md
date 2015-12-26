@@ -10,7 +10,7 @@ Recall: you choose the induction technique using the Choose button on the Classi
 ```
 WEKA Explorer
 Open File
-    Mailing_tree.arff
+    mailing_tree.arff
 
 2nd tab:  Classify
 Classifier / Choose
