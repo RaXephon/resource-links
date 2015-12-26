@@ -7,7 +7,7 @@ Recall: you choose the induction technique using the Choose button on the Classi
 [J48 Tree options](https://github.com/reshama/resource-links/blob/master/weka/j48_tree.png)
 
 --
-
+```
 WEKA Explorer
 Open File
     Mailing_tree.arff
@@ -23,3 +23,4 @@ click:  OK
 
 To run algorithm:
 Hit:  “Start”
+```
