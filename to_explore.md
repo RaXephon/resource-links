@@ -52,10 +52,17 @@ Six is a Python 2 and 3 compatibility library. It provides utility functions for
 [Numbas](https://github.com/numbas/editor)<br>
 open-source system for creating SCORM-compliant exams which run entirely in the browser, developed by Newcastle University's School of Maths and Stats.
 
+[ML Django Workshop](https://github.com/lightstrike/mlworkshop)
+
+*****
+
+####Graphing
+
 [Bokeh](https://github.com/bokeh/bokeh)<br>
 Bokeh is a Python interactive visualization library that targets modern web browsers for presentation. Its goal is to provide elegant, concise construction of novel graphics in the style of D3.js, but also deliver this capability with high-performance interactivity over very large or streaming datasets. Bokeh can help anyone who would like to quickly and easily create interactive plots, dashboards, and data applications.
 
-[ML Django Workshop](https://github.com/lightstrike/mlworkshop)
+[Orange](http://orange.biolab.si)  
+Orange is a component-based data mining and machine learning software suite, featuring a visual programming front-end for explorative data analysis and visualization, and Python bindings and libraries for scripting. It includes a set of components for data preprocessing, feature scoring and filtering, modeling, model evaluation, and exploration techniques. It is implemented in C++ and Python. Its graphical user interface builds upon cross-platform Qt framework. Orange is distributed free under the GPL. It is maintained and developed at the Bioinformatics Laboratory of the Faculty of Computer and Information Science, University of Ljubljana, Slovenia.
 
 *****
 
