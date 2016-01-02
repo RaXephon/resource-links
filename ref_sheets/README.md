@@ -35,10 +35,15 @@ The flowchart below is designed to give users a bit of a rough guide on how to a
 Click on any estimator in the chart below to see it’s documentation.
  
  2. [CHEAT SHEET – ALGORITHM FOR SUPERVISED AND UNSUPERVISED LEARNING](http://eferm.com/machine-learning-cheat-sheet/)<br>
+    [Algorithm Table in pdf format](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
     Emanuel Ferm created this useful cheat sheet for personal use, and then later introduced for everyone to download. Check this and learn many aspects of machine learning in a matter of minutes.   
  
- 3. BIG DATA MACHINE LEARNING
- 4. MICROSOFT AZURE MACHINE LEARNING : ALGORITHM CHEAT SHEET
+ 3. [BIG DATA MACHINE LEARNING](https://dzone.com/refcardz/machine-learning-predictive)<br>
+    Another useful machine learning cheat sheet coming from Dzone that will help you learn how to set up training and testing data, implementing multiple machine learning models and many more important topics.
+ 
+ 4. [MICROSOFT AZURE MACHINE LEARNING : ALGORITHM CHEAT SHEET](https://azure.microsoft.com/en-in/documentation/articles/machine-learning-algorithm-cheat-sheet/)<br>
+    This machine learning cheat sheet from Microsoft Azure will help you choose the appropriate machine learning algorithms for your predictive analytics solution. First, the cheat sheet will asks you about the data nature and then suggests the best algorithm for the job. 
+ 
  5. [MACHINE LEARNING CHEAT SHEET](https://github.com/soulmachine/machine-learning-cheat-sheet)<br>
     A very useful and best machine learning cheat sheet that comes with many classical equations and diagrams to help you learn more about machine learning. Not only helpful for developers, but also comes handy if you are going to give job interview related to machine learning.
  
