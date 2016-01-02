@@ -28,8 +28,15 @@
 [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
 
 [8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)<br>
- 1. SCIKIT-LEARN ALGORITHM CHEAT SHEET
- 2. CHEAT SHEET – ALGORITHM FOR SUPERVISED AND UNSUPERVISED LEARNING
+ 1. [SCIKIT-LEARN ALGORITHM CHEAT SHEET - Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)<br>
+    Often the hardest part of solving a machine learning problem can be finding the right estimator for the job.
+Different estimators are better suited for different types of data and different problems.
+The flowchart below is designed to give users a bit of a rough guide on how to approach problems with regard to which estimators to try on your data.
+Click on any estimator in the chart below to see it’s documentation.
+ 
+ 2. [CHEAT SHEET – ALGORITHM FOR SUPERVISED AND UNSUPERVISED LEARNING](http://eferm.com/machine-learning-cheat-sheet/)<br>
+    Emanuel Ferm created this useful cheat sheet for personal use, and then later introduced for everyone to download. Check this and learn many aspects of machine learning in a matter of minutes.   
+ 
  3. BIG DATA MACHINE LEARNING
  4. MICROSOFT AZURE MACHINE LEARNING : ALGORITHM CHEAT SHEET
  5. [MACHINE LEARNING CHEAT SHEET](https://github.com/soulmachine/machine-learning-cheat-sheet)<br>
