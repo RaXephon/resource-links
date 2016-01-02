@@ -34,11 +34,11 @@
  4. MICROSOFT AZURE MACHINE LEARNING : ALGORITHM CHEAT SHEET
  5. MACHINE LEARNING CHEAT SHEET
  6. SUPERVISED LEARNING SUPERSTITIONS CHEAT SHEET<br>
-    Ryan Compton created a cheat sheet that contains his notes and superstitions about common machine learning algorithms. This is a quick reference guide that will help all the people learning or giving interviews.
- 7. MACHINE LEARNING ALGORITHM CHEAT SHEET<br>
-    Created by Laura Diane, this is a very simple but useful machine learning cheat sheet that will help you understand more about algorithms and where to use them.
+    Ryan Compton created a cheat sheet that contains his notes and superstitions about common machine learning algorithms. This is a quick reference guide that will help all the people learning or giving interviews.  
+ 7. [MACHINE LEARNING ALGORITHM CHEAT SHEET](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet)<br>
+    Created by Laura Diane, this is a very simple but useful machine learning cheat sheet that will help you understand more about algorithms and where to use them.  
  8. CHEAT SHEET – 10 MACHINE LEARNING ALGORITHMS & R COMMANDS<br>
-    Created by Ajitesh Kumar, this article contains 10 popular machine learning algorithms and related R commands and package information. This cheat sheet will help beginners to understand more about the algorithms and how to use it further.
+    Created by Ajitesh Kumar, this article contains 10 popular machine learning algorithms and related R commands and package information. This cheat sheet will help beginners to understand more about the algorithms and how to use it further.  
 
 *****
 
