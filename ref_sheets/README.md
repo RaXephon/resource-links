@@ -33,7 +33,7 @@
  3. BIG DATA MACHINE LEARNING
  4. MICROSOFT AZURE MACHINE LEARNING : ALGORITHM CHEAT SHEET
  5. MACHINE LEARNING CHEAT SHEET
- 6. SUPERVISED LEARNING SUPERSTITIONS CHEAT SHEET
+ 6. SUPERVISED LEARNING SUPERSTITIONS CHEAT SHEET<br>
     Ryan Compton created a cheat sheet that contains his notes and superstitions about common machine learning algorithms. This is a quick reference guide that will help all the people learning or giving interviews.
 
 *****
