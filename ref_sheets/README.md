@@ -27,7 +27,7 @@
 
 [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
 
-[8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)
+[8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)<br>
  1. SCIKIT-LEARN ALGORITHM CHEAT SHEET
  2. CHEAT SHEET – ALGORITHM FOR SUPERVISED AND UNSUPERVISED LEARNING
  3. BIG DATA MACHINE LEARNING
@@ -35,6 +35,10 @@
  5. MACHINE LEARNING CHEAT SHEET
  6. SUPERVISED LEARNING SUPERSTITIONS CHEAT SHEET<br>
     Ryan Compton created a cheat sheet that contains his notes and superstitions about common machine learning algorithms. This is a quick reference guide that will help all the people learning or giving interviews.
+ 7. MACHINE LEARNING ALGORITHM CHEAT SHEET<br>
+    Created by Laura Diane, this is a very simple but useful machine learning cheat sheet that will help you understand more about algorithms and where to use them.
+ 8. CHEAT SHEET – 10 MACHINE LEARNING ALGORITHMS & R COMMANDS<br>
+    Created by Ajitesh Kumar, this article contains 10 popular machine learning algorithms and related R commands and package information. This cheat sheet will help beginners to understand more about the algorithms and how to use it further.
 
 *****
 
