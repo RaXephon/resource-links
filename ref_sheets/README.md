@@ -35,7 +35,7 @@ The flowchart below is designed to give users a bit of a rough guide on how to a
 Click on any estimator in the chart below to see it’s documentation.
  
  2. [CHEAT SHEET – ALGORITHM FOR SUPERVISED AND UNSUPERVISED LEARNING](http://eferm.com/machine-learning-cheat-sheet/)<br>
-    [Algorithm Table in pdf format](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
+    [Algorithm Table in pdf format](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)<br>
     Emanuel Ferm created this useful cheat sheet for personal use, and then later introduced for everyone to download. Check this and learn many aspects of machine learning in a matter of minutes.   
  
  3. [BIG DATA MACHINE LEARNING](https://dzone.com/refcardz/machine-learning-predictive)<br>
