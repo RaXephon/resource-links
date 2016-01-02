@@ -8,7 +8,8 @@ We can help your voice be heard through stats.org or potentially other media out
 
 Be part of stats.org by suggesting a topic and working with us to get it written. Be part of creating a conversation about the importance of statistical literacy.
 
- 
+--
+
 * Pair Programming
   * [Project Euler](https://projecteuler.net/)
   * [HackerRank](https://www.hackerrank.com/)
