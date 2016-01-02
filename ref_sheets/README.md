@@ -29,7 +29,12 @@
 
 [8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)
  1. SCIKIT-LEARN ALGORITHM CHEAT SHEET
- 2. 
+ 2. CHEAT SHEET – ALGORITHM FOR SUPERVISED AND UNSUPERVISED LEARNING
+ 3. BIG DATA MACHINE LEARNING
+ 4. MICROSOFT AZURE MACHINE LEARNING : ALGORITHM CHEAT SHEET
+ 5. MACHINE LEARNING CHEAT SHEET
+ 6. SUPERVISED LEARNING SUPERSTITIONS CHEAT SHEET
+     >> Ryan Compton created a cheat sheet that contains his notes and superstitions about common machine learning algorithms. This is a quick reference guide that will help all the people learning or giving interviews.
 
 *****
 
