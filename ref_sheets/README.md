@@ -44,6 +44,8 @@
  9. [A COURSE IN MACHINE LEARNING BY HAL DAUME III](http://www.e-booksdirectory.com/details.php?ebook=9395)
  10. 
  
+ 
+
 
 *****
 
