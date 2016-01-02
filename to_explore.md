@@ -1,5 +1,10 @@
 
-####Pair Programming
+ 
+* Pair Programming
+  * [Project Euler](https://projecteuler.net/)
+  * [HackerRank](https://www.hackerrank.com/)
+* [Survive-Python (Aaron)](https://survive-python.herokuapp.com/identity)
+* [GA DS11 Course](https://github.com/reshama/GADS11-NYC-Summer2014)
 
 *****
 
