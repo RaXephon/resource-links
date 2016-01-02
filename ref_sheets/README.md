@@ -27,8 +27,9 @@
 
 [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
 
-[8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)  
- * 
+[8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)
+ 1. SCIKIT-LEARN ALGORITHM CHEAT SHEET
+ 2. 
 
 *****
 
