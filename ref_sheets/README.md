@@ -29,6 +29,8 @@
 
 [8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)  
 
+*****
+
 [12 Best Free Ebooks for Machine Learning](http://devzum.com/2015/05/best-free-machine-learning-ebooks/)  
  1. [BAYESIAN REASONING AND MACHINE LEARNING BY DAVID BARBER](http://www.e-booksdirectory.com/details.php?ebook=5283)
  2. [INDUCTIVE LOGIC PROGRAMMING: TECHNIQUES AND APPLICATIONS BY NADA LAVRAC, SASO DZEROSKI](http://www.e-booksdirectory.com/details.php?ebook=1105)
