@@ -1,4 +1,13 @@
 
+[stats.org](http://www.stats.org/contribute/)  
+How many times have you watched the news or read a magazine article and seen a statistical blooper? How often have you wished you could explain to them how to get the statistics right?  
+
+Next time that happens, get involved! Drop us a note telling us what you saw or read and why it was wrong. Or, alternatively, share why the writer got it right and should be applauded.  
+
+We can help your voice be heard through stats.org or potentially other media outlets. We want to have more statisticians and data-driven scientists writing for a general audience, which means your input is essential.  
+
+Be part of stats.org by suggesting a topic and working with us to get it written. Be part of creating a conversation about the importance of statistical literacy.
+
  
 * Pair Programming
   * [Project Euler](https://projecteuler.net/)
