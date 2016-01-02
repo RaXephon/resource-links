@@ -28,6 +28,7 @@
 [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
 
 [8 Best Machine Learning Cheat Sheets](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)  
+ * 
 
 *****
 
@@ -36,6 +37,12 @@
  2. [INDUCTIVE LOGIC PROGRAMMING: TECHNIQUES AND APPLICATIONS BY NADA LAVRAC, SASO DZEROSKI](http://www.e-booksdirectory.com/details.php?ebook=1105)
  3. [GAUSSIAN PROCESSES FOR MACHINE LEARNING BY CARL E. RASMUSSEN, CHRISTOPHER K. I. WILLIAMS](http://www.e-booksdirectory.com/details.php?ebook=1774)
  4. [MACHINE LEARNING, NEURAL AND STATISTICAL CLASSIFICATION BY D. MICHIE, D. J. SPIEGELHALTER](http://www.e-booksdirectory.com/details.php?ebook=1118)
+ 5. 
+ 6. [THE ELEMENTS OF STATISTICAL LEARNING: DATA MINING, INFERENCE, AND PREDICTION BY BY T. HASTIE, R. TIBSHIRANI, J. FRIEDMAN](http://www.e-booksdirectory.com/details.php?ebook=3267)
+ 7. [THE LION WAY BY ROBERTO BATTITI, MAURO BRUNATO](http://www.e-booksdirectory.com/details.php?ebook=9395)
+ 8. [INTRODUCTION TO MACHINE LEARNING BY AMNON SHASHUA](http://www.e-booksdirectory.com/details.php?ebook=4493)
+ 9. [A COURSE IN MACHINE LEARNING BY HAL DAUME III](http://www.e-booksdirectory.com/details.php?ebook=9395)
+ 10. 
  
 
 *****
