@@ -71,3 +71,41 @@ To https://github.com/reshama/dsp.git
 $ git commit remotename branchname -m "message"
 $ git commit origin pwupdate -m "updating prework branch" 
 ```
+
+--
+
+ * Create a branch and switch to it:
+
+```
+git checkout -b experiment
+```
+
+ * Check your branch situation:
+
+```
+git branch
+```
+
+ * Change branches:
+
+```
+git checkout master
+git checkout experiment
+```
+
+ * Work on your branch as usual, and then push to your `origin`.
+
+```
+git push origin experiment
+```
+
+ * Make a pull request on GitHub.
+
+ * When you sync up, sync up `master`!
+
+```
+git checkout master
+git pull upstream master
+```
+
+It's possible to do pull requests from your `master` branch, but this puts you in an awkward position where you're waiting for the pull request to get merged before it's safe for you to sync up again. Topic branches are highly recommended.
