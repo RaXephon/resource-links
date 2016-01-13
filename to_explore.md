@@ -10,6 +10,10 @@ Be part of stats.org by suggesting a topic and working with us to get it written
 
 --
 
+[Jupyter Notebook 4.1 just released LAST WEEK! (08-Jan-2016)](http://blog.jupyter.org/2016/01/08/notebook-4-1-release/)
+
+--
+
 * Pair Programming
   * [Project Euler](https://projecteuler.net/)
   * [HackerRank](https://www.hackerrank.com/)
