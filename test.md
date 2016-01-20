@@ -3,7 +3,7 @@
 #### Syllabus
 
 --
-
+>
 #### Week 1/Class 1:
 *Lecture:*
  * introduction to myself & course
