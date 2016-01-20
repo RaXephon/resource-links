@@ -19,7 +19,7 @@
  * Setting up AWS EC2 instance
 
 #### Week 1/Class 2:
-**Lecture:**
+*Lecture:*  
  * review of previous class
  * HDFS architecture (NameNodes, DataNodes etc)
 - HDFS performance & tuning (control block size, # map tasks etc)
@@ -32,16 +32,17 @@ Lab:
 - word count application in local
 - word count application on AWS
 
-Week 2/Class 1:
-Lecture:
+#### Week 2/Class 1:
+*Lecture:*  
 - review of previous class
 - common Hadoop errors
 - MapReduce using Java API
 - MapReduce using REST API
 - Hadoop streaming (using Python)
-Lab:
+*Lab:*  
 - formulating image processing application (smoothing filter) in terms of MapReduce
-- run output in local then on AWS
+- run output in local then on AWS  
+
 Lecture:
 - MapReduce design patterns: summary functions, filtering, joins
 - improvements on Hadoop: Tez
