@@ -31,6 +31,8 @@
 - word count application in local
 - word count application on AWS
 
+--
+
 #### Week 2/Class 1:
 *Lecture:*  
 - review of previous class
@@ -50,7 +52,7 @@
 *Lab:* 
 - navigating Hadoop ecosystem in Hortonworks (screenshots)
 
-#### Week 2/class 2:
+#### Week 2/Class 2:
 *Lecture:*
 - review of previous lecture
 - MapReduce vs relational database
@@ -61,7 +63,9 @@
 *Lab:*
 - creating tables & running basic operations in Hbase (screenshots)
 
-#### Week 3/class 1:
+--
+
+#### Week 3/Class 1:
 *Lecture:*
 - review of previous lecture
 - Hive: Hadoop’s data warehouse
@@ -72,7 +76,7 @@
 - creating tables, working with HiveQL
 - writing Hive UDF
 
-#### Week 3/class 2:
+#### Week 3/Class 2:
 *Lecture:*
 - Pig scripting language
 - Pig loading & storing data
@@ -81,7 +85,9 @@
 *Lab:*
 - Pig loading, storing, combing and splitting data
 
-#### Week 4/class 1:
+--
+
+#### Week 4/Class 1:
 *Lecture:*
 - review of previous lecture
 - introduction & history of Spark
@@ -94,7 +100,7 @@
 - word count application in local
 - word count application on AWS
 
-#### Week 4/class 2:
+#### Week 4/Class 2:
 *Lecture:*
 - review of previous lecture
 - Spark SQL basics
@@ -104,17 +110,19 @@
 - loading data into Spark SQL
 - using Spark SQL
 
-Week 5/class 1:
-Lecture:
+--
+
+#### Week 5/Class 1:
+*Lecture:*
 - review of previous lecture
 - what is machine learning?
 - how is Spark useful for machine learning?
 - basic linear algebra
-Lab:
+*Lab:*
 - a tour of MLlib
-Lecture:
+*Lecture:*
 - supervised learning: linear & logistic regression
-Lab:
+*Lab:*
 - implement linear regression on data set with Spark
 - run on local
 - run on AWS
@@ -127,6 +135,8 @@ Lab:
 - implement PCA on dataset with Spark
 - run on local
 - run on AWS
+
+--
 
 #### Week 6/Class 1:
 *Lecture:*
