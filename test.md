@@ -12,7 +12,8 @@
 (deadlock, race conditions, hardware provisioning, software debug)
  * enter HDFS (to solve above problems)
  * bit of HDFS history  
-*Labs:*
+
+*Lab:*
  * Setting up Cloudera Virtual Machine
  * HDFS commands, navigating HDFS file system, copying files
  * Setting up AWS EC2 instance
@@ -24,9 +25,11 @@
 - HDFS performance & tuning (control block size, # map tasks etc)
 - HDFS read/write process
 - Hadoop distributed cache
+
 *Lecture:*
 - computational model of MapReduce (map, shuffle, reduce steps)
 - requirements to model problem in terms of MR: (monoid, commutative reducers, key-value pairs)
+
 *Lab:* 
 - word count application in local
 - word count application on AWS
@@ -40,6 +43,7 @@
 - MapReduce using Java API
 - MapReduce using REST API
 - Hadoop streaming (using Python)
+
 *Lab:*  
 - formulating image processing application (smoothing filter) in terms of MapReduce
 - run output in local then on AWS  
@@ -49,6 +53,7 @@
 - improvements on Hadoop: Tez
 - more about the Hadoop ecosystem
 - Hortonworks vs Cloudera
+
 *Lab:* 
 - navigating Hadoop ecosystem in Hortonworks (screenshots)
 
@@ -60,6 +65,7 @@
 - HBase data model
 - HBase rows and columns
 - Bloom Filter
+
 *Lab:*
 - creating tables & running basic operations in Hbase (screenshots)
 
@@ -72,6 +78,7 @@
 - HiveQL, a query language similar to mySQL
 - Hive schemas
 - Hive User Defined Functions (UDFs)
+
 *Lab:*
 - creating tables, working with HiveQL
 - writing Hive UDF
@@ -82,6 +89,7 @@
 - Pig loading & storing data
 - Pig schemas
 - Pig UDFs
+
 *Lab:*
 - Pig loading, storing, combing and splitting data
 
@@ -95,6 +103,7 @@
 - Spark programming model
 - Spark Transformations and Actions
 - the Spark ecosystem (MLlib, SparkSQL, Spark Streaming, GraphX)
+
 *Lab:* 
 - set up pySpark
 - word count application in local
@@ -106,6 +115,7 @@
 - Spark SQL basics
 - Spark data frames
 - Spark and Hive
+
 *Lab:*
 - loading data into Spark SQL
 - using Spark SQL
@@ -118,20 +128,24 @@
 - what is machine learning?
 - how is Spark useful for machine learning?
 - basic linear algebra
+
 *Lab:*
 - a tour of MLlib
+
 *Lecture:*
 - supervised learning: linear & logistic regression
+
 *Lab:*
 - implement linear regression on data set with Spark
 - run on local
 - run on AWS
 
 #### Week 5/Class 2:
-##### *Lecture:*
+*Lecture:*
 - review of previous lecture
 - unsupervised learning: Principal Component Analysis
-##### *Lab:*
+
+*Lab:*
 - implement PCA on dataset with Spark
 - run on local
 - run on AWS
