@@ -11,16 +11,16 @@
  * pitfalls of classical thread-lock distributed computing models
 (deadlock, race conditions, hardware provisioning, software debug)
  * enter HDFS (to solve above problems)
- * bit of HDFS history
+ * bit of HDFS history  
 *Labs:*
  * Setting up Cloudera Virtual Machine
  * HDFS commands, navigating HDFS file system, copying files
  * Setting up AWS EC2 instance
 
-Week 1/Class 2:
-Lecture:
-- review of previous class
-- HDFS architecture (NameNodes, DataNodes etc)
+#### Week 1/Class 2:
+**Lecture:**
+ * review of previous class
+ * HDFS architecture (NameNodes, DataNodes etc)
 - HDFS performance & tuning (control block size, # map tasks etc)
 - HDFS read/write process
 - Hadoop distributed cache
