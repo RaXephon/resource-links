@@ -144,12 +144,14 @@
 - introduction to Scala
 - streaming concepts, including some Kafka?
 - Spark streaming
+
 *Lab:*
 - working with streaming
 
 #### Week 6/Class 2:
 *Lecture:*
 - class wrap-up
+
 *Lab:*
 - project day! 
 - work on something relevant to your job
