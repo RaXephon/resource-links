@@ -5,7 +5,7 @@
 --
 
 #### Week 1/Class 1:
-*Lecture:*
+*Lecture:
  * introduction to myself & course
  * motivation for why use distributed computing 
  * pitfalls of classical thread-lock distributed computing models
