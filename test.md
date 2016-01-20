@@ -12,6 +12,7 @@
 (deadlock, race conditions, hardware provisioning, software debug)
  * enter HDFS (to solve above problems)
  * bit of HDFS history  
+>
 *Lab:*
  * Setting up Cloudera Virtual Machine
  * HDFS commands, navigating HDFS file system, copying files
