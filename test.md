@@ -128,10 +128,10 @@
 - run on AWS
 
 #### Week 5/Class 2:
-*Lecture:*
+##### *Lecture:*
 - review of previous lecture
 - unsupervised learning: Principal Component Analysis
-*Lab:*
+##### *Lab:*
 - implement PCA on dataset with Spark
 - run on local
 - run on AWS
