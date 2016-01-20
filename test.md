@@ -4,7 +4,7 @@
 
 --
 >
-#### Week 1/Class 1:
+#### Week 1/Class 1 (1/19/2016):
 *Lecture:*
  * introduction to myself & course
  * motivation for why use distributed computing 
