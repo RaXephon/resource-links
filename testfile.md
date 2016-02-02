@@ -5,10 +5,10 @@ For this class, we will be using a Cloudera Virtual Machine. Cloudera is a provi
 This way we do not have to worry about installing Hadoop/Spark ourselves.
 
 1. Download VM Ware Fusion Pro (trial version)
-Pick Mac or Windows, depending on your configuration
+Pick Mac or Windows, depending on your configuration:
 https://www.vmware.com/products/fusion/fusion-evaluation
 
-2. Download Cloudera Virtual Machine
+2. Download Cloudera Virtual Machine:  
 http://www.cloudera.com/content/www/en-us/downloads/quickstart_vms/5-5.html
 
 3. Unzip it.
