@@ -30,7 +30,7 @@ You can turn off this feature to get a quicker startup with -A
 
 Database changed
 ```
-**mysql> describe tennis;**
+**mysql> describe tennis;**  
 
-```How do you view the first 10 lines of u_users?```
+_How do you view the first 10 lines of u_users?_  
 **mysql> SELECT * from u_users limit 10;**
