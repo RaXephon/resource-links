@@ -12,6 +12,10 @@ You should be familiar with the following concepts:
 * systems of linear equations
 * eigenvalues
 
+## Exercises  
+
+Complete the exercises in the linear algebra file.  Do your work by hand.  You can check your work in Python. 
+
 --
 
 #### Additional Resources
