@@ -4,7 +4,7 @@ Read the following quick sheet:
 [Linear Algebra Explained in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 
 
-You should be familiar with the following concepts:  
+You should be familiar with the following concepts:
 * adding vectors
 * matrix multiplication
 * matrix inverse
