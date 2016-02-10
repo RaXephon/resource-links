@@ -1,6 +1,8 @@
+# Linear Algebra
 
+Read the following quick sheet:
+[Linear Algebra Explained in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 
-###Linear Algebra
 
 You should be familiar with the following concepts:  
 * adding vectors
@@ -9,9 +11,6 @@ You should be familiar with the following concepts:
 * how to visualize lines and planes and hyperplanes; dot product
 * systems of linear equations
 * eigenvalues
-
-### Reference  
-[Linear Algebra Explained in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 
 --
 
