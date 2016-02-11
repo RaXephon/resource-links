@@ -1,6 +1,11 @@
 
 
 [Generalized Linear Model](https://en.wikipedia.org/wiki/Generalized_linear_model)
+
+OLS egression model assumes:
+1.  
+2.  errors from regression model follow a normal distribution.
+
 ```
 In statistics, the generalized linear model (GLM) is a flexible generalization of ordinary linear 
 regression that allows for response variables that have error distribution models other than a 
