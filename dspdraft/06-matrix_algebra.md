@@ -16,7 +16,7 @@ You should be familiar with the following concepts:
 
 Complete the exercises in the [Matrix Algebra Worksheet](matrix_algebra_worksheet.pdf).  Print out the worksheet and complete the computations by hand.  You can check your work in Python.
 
---
+---
 
 #### Additional Resources
 **Linear Algebra Tutorials**  
