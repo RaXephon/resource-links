@@ -14,7 +14,7 @@ You should be familiar with the following concepts:
 
 ## Exercises  
 
-Complete the exercises in the [matrix algebra worksheet](matrix_algebra_worksheet.pdf).  Do your work by hand.  You can check your work in Python. 
+Complete the exercises in the [Matrix Algebra Worksheet](matrix_algebra_worksheet.pdf).  Do your work by hand.  You can check your work in Python. 
 
 --
 
