@@ -1,7 +1,7 @@
 ## Linear Algebra
 
 **Read the following quick sheet:**
-[  Linear Algebra Explained in 4 Pages](matrix/linear_algebra_in_4_pages.pdf)
+[  Linear Algebra Explained in 4 Pages](matrix/linear_algebra_in_4pages.pdf)
 
 ---
 
