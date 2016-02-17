@@ -22,7 +22,11 @@ There are matrix operations exercises in the [Matrix Algebra Worksheet](matrix_a
 ###Q1:  Matrix Dimensions
 
 ####1.1:  A
+>>
+
 ####1.2:  B
+>> 
+
 
 
 
