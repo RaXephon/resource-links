@@ -21,11 +21,25 @@ There are matrix operations exercises in the [Matrix Algebra Worksheet](matrix_a
 
 ###Q1:  Matrix Dimensions
 
-####1.1:  A
->> place dimensions here
+####Q1.1:  A
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
 
-####1.2:  B
->> place dimensions here
+####Q1.2:  B
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
+
+####Q1.3:  C
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
+
+####Q1.4:  D
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
+
+####Q1.5:  u
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
+
+####Q1.6:  $w$
+>> REPLACE THIS TEXT WITH YOUR RESPONSE
+
+
 
 
 
