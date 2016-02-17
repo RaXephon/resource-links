@@ -1,9 +1,9 @@
 ## Linear Algebra
 
-Read the following quick sheet:
+**Read the following quick sheet:**
 [Linear Algebra Explained in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 
-**Additional Resources:  Linear Algebra Tutorials**  
+Additional Resources:  Linear Algebra Tutorials
 * [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Kardi’s Interactive Linear Algebra Tutorial](http://people.revoledu.com/kardi/tutorial/LinearAlgebra/index.html)
 
