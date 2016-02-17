@@ -36,7 +36,7 @@ There are matrix operations exercises in the [Matrix Algebra Worksheet](matrix_a
 ####Q1.5:  u
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
-####Q1.6:  $w$
+Q1.6:  w
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 
