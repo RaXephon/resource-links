@@ -5,7 +5,7 @@
 
 ---
 
-You should be familiar with the following concepts:\s
+You should be familiar with the following concepts:
 * adding vectors
 * matrix multiplication
 * matrix inverse
