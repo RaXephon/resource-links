@@ -13,3 +13,9 @@ reshama$ pwd
 reshama$ bin/spark-shell
 ```
 
+####Exit Scala
+```
+scala> :q
+Stopping spark context.
+reshama$ 
+```
