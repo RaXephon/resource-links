@@ -1,3 +1,9 @@
+###Spark Plaforms
+* locally (download the source from github or Apache)
+* Cloudera (need Virtual Box or VM Ware Fusion Pro)
+* Microsoft Azure
+* Hortonworks Virtual Machine
+
 ###Spark
 
 Spark is faster than Hadoop.
