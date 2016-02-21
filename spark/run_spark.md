@@ -13,8 +13,7 @@ To test that Spark was built properly, run the following command in the same fol
 * if you run `sc` in the shell, you’ll see the SparkContext object already initialized. You can write and run commands interactively in this shell just like you can with IPython.  
 `>>> sc` 
 
-
->```
+```
 86 with 530.0 MB RAM, BlockManagerId(driver, localhost, 50886)
 16/02/20 22:59:57 INFO BlockManagerMaster: Registered BlockManager
 Welcome to
