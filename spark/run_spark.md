@@ -5,9 +5,13 @@
 
 ### Running Interactive Spark
 
-To test that Spark was built properly, run the following command in the same folder (where Spark resides):
+* Folder to run interactive Spark:    
+```
+$ pwd
+/Users/reshamashaikh/_ds/metis/spark-1.5.2-bin-hadoop2.6
+```
 
-* the interactive PySpark shell should start up. This is the interactive PySpark shell, similar to IPython  
+* To start up the interactive PySpark shell:  (This is the interactive PySpark shell, similar to IPython)    
 `$ bin/pyspark`  
 
 * if you run `sc` in the shell, you’ll see the SparkContext object already initialized. You can write and run commands interactively in this shell just like you can with IPython.  
