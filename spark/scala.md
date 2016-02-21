@@ -1,8 +1,10 @@
-###Scala
+##Scala
+
 
 ####Documentation
 [Scala Lang site](http://www.scala-lang.org/documentation/)
 
+---
 
 ####Start up the interactive Scala shell
 ```
