@@ -1,5 +1,32 @@
 
 
 
-[How to Install PySpark and Integrate with IPython Notebook](https://www.dataquest.io/blog/installing-pyspark/)
+[How to Install PySpark and Integrate with IPython Notebook](https://www.dataquest.io/blog/installing-pyspark/)  
 
+### Running Interactive Spark
+
+To test that Spark was built properly, run the following command in the same folder (where Spark resides):
+
+* the interactive PySpark shell should start up. This is the interactive PySpark shell, similar to IPython  
+`$ bin/pyspark`  
+
+* if you run `sc` in the shell, you’ll see the SparkContext object already initialized. You can write and run commands interactively in this shell just like you can with IPython.  
+`>>> sc` 
+
+
+>```
+86 with 530.0 MB RAM, BlockManagerId(driver, localhost, 50886)
+16/02/20 22:59:57 INFO BlockManagerMaster: Registered BlockManager
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /__ / .__/\_,_/_/ /_/\_\   version 1.5.2
+      /_/
+
+Using Python version 2.7.11 (default, Dec  6 2015 18:57:58)
+SparkContext available as sc, HiveContext available as sqlContext.
+>>> sc
+<pyspark.context.SparkContext object at 0x10396d910>
+>>> 
+```
