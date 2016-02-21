@@ -12,11 +12,13 @@ $ pwd
 ```
 
 * To start up the interactive PySpark shell:  (This is the interactive PySpark shell, similar to IPython)    
-`$ bin/pyspark`  
+```
+$ bin/pyspark
+```
 
 * if you run `sc` in the shell, you’ll see the SparkContext object already initialized. You can write and run commands interactively in this shell just like you can with IPython.  
-`>>> sc` 
-
+```
+>>> sc
 ```
 86 with 530.0 MB RAM, BlockManagerId(driver, localhost, 50886)
 16/02/20 22:59:57 INFO BlockManagerMaster: Registered BlockManager
