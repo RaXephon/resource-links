@@ -13,11 +13,11 @@ Hadoop
 
 Spark
 * has no HDFS, built to work with Hadoop (some say core of HDFS is hadoop)
-* is better than mapreduce part of hadoop.
+* is better than mapreduce part of hadoop
 
 Spark is faster than Hadoop
-* Spark doesn't have to write to disk when running a job.
-* Spark uses in-memory caching.
+* Spark doesn't have to write to disk when running a job
+* Spark uses in-memory caching
 
 RDD 
 * think of these as our main data types
