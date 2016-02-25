@@ -3,6 +3,7 @@
 * Cloudera (need Virtual Box or VM Ware Fusion Pro)
 * Microsoft Azure
 * Hortonworks Virtual Machine
+* [Interactive and Reactive Data Science using **Scala and Spark (no python)** (Created by andypetrella)](http://spark-notebook.io/)
 
 ###Spark
 
