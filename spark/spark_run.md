@@ -48,6 +48,13 @@ To start IPython Notebook with the pyspark profile, run:
 To test that PySpark was loaded properly, create a new notebook and run `sc` in one of the code cells to make sure the SparkContext object was initialized properly.  
 `$ sc `
 
+```
+import pyspark
+from pyspark import SparkContext
+sc = SparkContext()
+
+type(sc)
+```
 
 
 
