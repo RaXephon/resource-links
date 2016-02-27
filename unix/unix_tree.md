@@ -5,7 +5,7 @@
 $ brew install tree
 ```
 
-To list directories only
+To list directories only  
 `$ tree -d`  
 
 Pass the -C option to see colorized output, using built-in color defaults:
