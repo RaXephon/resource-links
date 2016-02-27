@@ -19,6 +19,12 @@ $ brew install tree
 ```
 # print full file path
 $ tree -f
+
+# descend only level directories deep
+$ tree -L 1
+$ tree -L 2
+
+
 ```
 
 ---
