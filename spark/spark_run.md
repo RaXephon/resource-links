@@ -45,6 +45,8 @@ SparkContext available as sc, HiveContext available as sqlContext.
 To start IPython Notebook with the pyspark profile, run:  
 `$ ipython notebook --profile=pyspark`  
 
+### Testing that PySpark is working  
+
 To test that PySpark was loaded properly, create a new notebook and run `sc` in one of the code cells to make sure the SparkContext object was initialized properly.  
 `$ sc `
 
