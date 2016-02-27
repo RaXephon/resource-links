@@ -5,12 +5,13 @@
 $ brew install tree
 ```
 
-To list directories only  
+###To list directories only  
 `$ tree -d`  
 
-Pass the -C option to see colorized output, using built-in color defaults:
+###Pass the -C option to see colorized output, using built-in color defaults:  
 `$ tree -C`
 
+###Options  
 Here is a list of all options supported by the tree program:
 ```
   -a            All files are listed.
