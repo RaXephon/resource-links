@@ -14,6 +14,13 @@ $ brew install tree
 ####Pass the -C option to see colorized output, using built-in color defaults:  
 `$ tree -C`
 
+####My Favorite Options  
+
+```
+# print full file path
+$ tree -f
+```
+
 ---
 
 ####Options  
