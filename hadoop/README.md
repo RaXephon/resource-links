@@ -19,4 +19,9 @@ the first real time query engine
 **Hadoop YARN**  
 a resource-management platform responsible for managing computing resources in clusters and using them to schedule of users' applications
 
+**Apache Spark**  
+•  Popularized in ~ 2013-2014  
+–  load all the data into memory  
+–  up to ~100 -mes faster than MapReduce –  itera-ve algorithms become reasonable!  
+
 
