@@ -12,7 +12,7 @@ the first real time query engine
 **Hadoop** = HDFS + MapReduce
 
 **MapReduce**  
-•  map function: turns data into (key, value) pairs
+•  map function: turns data into (key, value) pairs  
 •  reduce function: reduce all values for key to one value or set
 
 
