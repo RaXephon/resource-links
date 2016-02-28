@@ -4,6 +4,7 @@
 $ type sparkdir
 $ type sparknb
 ```
+---
 
 **Running my Scala Notebok**
 ```
@@ -14,6 +15,6 @@ $ scaladir
 $ scalanb
 $ pwd
 ```
-**Go to Port:**
+**Go to Port:**  
 http://localhost:9000
  
