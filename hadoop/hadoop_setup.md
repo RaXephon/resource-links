@@ -1,4 +1,5 @@
 
+[Install Single Node Hadoop on Mac](http://blog.hampisoftware.com/index.php/2016/02/22/install-single-node-hadoop-on-mac/)
 
 [Installing Hadoop on Mac OSX El Capitan](https://dtflaneur.wordpress.com/2015/10/02/installing-hadoop-on-mac-osx-el-capitan/)
 
