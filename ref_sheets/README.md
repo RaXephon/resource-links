@@ -20,6 +20,8 @@
 
 [OverAPI's Python Cheat Sheet](http://overapi.com/python/)
 
+[Text Analysis with NLTK Cheatsheet](https://blogs.princeton.edu/etc/files/2014/03/Text-Analysis-with-NLTK-Cheatsheet.pdf)
+
 *****
 ####Compilation of Cheat Sheets
 
