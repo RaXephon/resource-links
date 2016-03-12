@@ -4,12 +4,12 @@
 
 Links to Projects
 
+--
+
 **Yong Cho**
 
 Project:  [Stepping out of the Comfort Zone](http://www.yongcho.com/2015/09/30/no-more-comfort-zone/) (also on [Vantage Sports](http://www1.vantagesports.com/))  
 [Cubs Sentiment Analysis](https://github.com/yongcho822/Cubs-Sentiment-Analysis-Dashboard/blob/master/ExtraAnalysis.ipynb)
-
-
 
 --
 ###Cohort 4 (Summer 2015)
