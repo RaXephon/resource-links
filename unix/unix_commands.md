@@ -1,3 +1,7 @@
+**Clear screen**
+```
+$ reset
+```
 
 **print working directory**
 ```
