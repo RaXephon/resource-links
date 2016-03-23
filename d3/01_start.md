@@ -4,7 +4,7 @@ reshama$ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/dataviz_d3
 ```
 
-Open terminal window & navigate to folder housing base.html Type 
+Open terminal window & navigate to folder
 ```
 $ python -m SimpleHTTPServer (or python 3 equivalent)
 ```
