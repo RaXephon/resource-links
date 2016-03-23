@@ -1,15 +1,16 @@
 
+**Open terminal window & navigate to folder**
 ```
 reshama$ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/dataviz_d3
 ```
 
-Open terminal window & navigate to folder
+**Start up local server**
 ```
 $ python -m SimpleHTTPServer (or python 3 equivalent)
 ```
 
-This message will appear:
+**This message will appear:**
 ```
 Serving HTTP on 0.0.0.0 port 8000 ...
 ```
