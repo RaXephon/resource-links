@@ -1,5 +1,5 @@
 
-**Open terminal window & navigate to folder**
+**Open terminal window & navigate to folder**  
 ```
 reshama$ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/dataviz_d3
