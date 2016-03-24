@@ -12,6 +12,6 @@
 `$0.__data__`
 go to any webpage with d3 stuff on it. right click on any d3 element and choose inspect. then type that in the console. it will tell you which data is bound to that element.
  
-[Let's Make a Block](https://bost.ocks.org/mike/block/)
+[Let's Make a Block](https://bost.ocks.org/mike/block/)  
 http://bl.ocks.org/reshama
 
