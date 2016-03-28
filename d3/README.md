@@ -8,9 +8,11 @@ b is like a <span> in html.  it's a container.
 
 
 ---
+###Examples
 
 [Mike Bostock Gallery - examples](https://github.com/mbostock/d3/wiki/Gallery)  
 [Kevin Quealy - examples](http://kpq.github.io)  
+[Information is Beautiful - examples](http://www.informationisbeautiful.net/)  
 [Dashing D3.js](https://www.dashingd3js.com/)  
 
 ---
