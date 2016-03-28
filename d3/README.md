@@ -1,5 +1,5 @@
-[Mike Bostock Gallery of Examples](https://github.com/mbostock/d3/wiki/Gallery)
-[Kevin Queay - examples](http://kpq.github.io)
+[Mike Bostock Gallery of Examples](https://github.com/mbostock/d3/wiki/Gallery)  
+[Kevin Quealy - examples](http://kpq.github.io)
 
 ---
 
