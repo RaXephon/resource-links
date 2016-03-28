@@ -14,6 +14,7 @@ b is like a <span> in html.  it's a container.
 [Kevin Quealy - examples](http://kpq.github.io)  
 [Information is Beautiful - examples](http://www.informationisbeautiful.net/)  
 [Dashing D3.js](https://www.dashingd3js.com/)  
+[Design and Redesign](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.ieqwwhgah)  
 
 ---
 
