@@ -1,3 +1,7 @@
+[Mike Bostock Gallery of Examples](https://github.com/mbostock/d3/wiki/Gallery)
+[Kevin Queay - examples](http://kpq.github.io)
+
+---
 
 [Thinking with Joins](https://bost.ocks.org/mike/join/)
 
