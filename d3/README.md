@@ -6,6 +6,13 @@
 
 b is like a "span" in html.  it's a container.
 
+---
+###Thoughts on Making Visualization
+ * if users have to mouse over, it's not good
+ * 
+ 
+###Advice
+* helps to make a to-do list to get started
 
 ---
 ###Examples
