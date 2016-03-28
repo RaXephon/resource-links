@@ -4,7 +4,7 @@
 
 ---
 
-b is like a <span> in html.  it's a container.
+b is like a "span" in html.  it's a container.
 
 
 ---
