@@ -1,5 +1,11 @@
 
-[Margin Conventions](https://bl.ocks.org/mbostock/3019563)
+[Margin Conventions](https://bl.ocks.org/mbostock/3019563)  
+[Third Variable in D3 Anonymous Function](http://stackoverflow.com/questions/20437116/third-variable-in-d3-anonymous-function)
+
+---
+
+b is like a <span> in html.  it's a container.
+
 
 ---
 
