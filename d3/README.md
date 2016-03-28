@@ -1,5 +1,6 @@
 [Mike Bostock Gallery - examples](https://github.com/mbostock/d3/wiki/Gallery)  
-[Kevin Quealy - examples](http://kpq.github.io)
+[Kevin Quealy - examples](http://kpq.github.io)  
+[Dashing D3.js](https://www.dashingd3js.com/)  
 
 ---
 
