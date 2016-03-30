@@ -33,6 +33,9 @@ reshama$
 reshama$ cd project1_mta/
 reshama$ ls
 reshama$ 
+```
+**Create a README.md file - add some lines**  
+```
 reshama$ emacs README.md
 reshama$ more README.md
 
@@ -60,7 +63,7 @@ To https://github.com/reshama/project1_mta.git
 reshama$ 
 ````
 
-**Note:  check your github account and you'll see the README.md file now appears!**
+**Note:  check your github account and you'll see the README.md file now appears!**  
 https://github.com/reshama/project1_mta
 
 
