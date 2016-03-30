@@ -39,7 +39,7 @@ reshama$ ls
 
 reshama$ 
 ```
-**Create a README.md file - add some lines**  
+>**Create a README.md file - add some lines**  
 ```
 reshama$ emacs README.md
 
