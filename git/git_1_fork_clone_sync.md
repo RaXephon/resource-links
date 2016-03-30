@@ -4,12 +4,13 @@
 In my personal account on GitHub, go to repo to be cloned.
 
 In this example, it is:  https://github.com/thisismetis/nyc16_ds7  
-**NOTE:  bookmark this**
+**>> NOTE:  bookmark this**
 
 #### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
 
-Go to my forked repo: https://github.com/reshama/nyc16_ds7
+Go to my forked repo: https://github.com/reshama/nyc16_ds7  
+**>> NOTE:  bookmark this**
  
 #### Step 3:  Clone repo
 Clone that forked repo (which is now under my name)
