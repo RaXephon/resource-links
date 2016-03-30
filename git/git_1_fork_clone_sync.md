@@ -3,8 +3,8 @@
 #### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
 
-In this example, it is:  https://github.com/thisismetis/nyc16_ds7
-*NOTE:  bookmark this*
+In this example, it is:  https://github.com/thisismetis/nyc16_ds7  
+**NOTE:  bookmark this**
 
 #### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
