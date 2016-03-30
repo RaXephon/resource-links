@@ -4,6 +4,15 @@
 
 ---
 
+type in console to see what the default origin is:
+
+```
+xScale.domain()
+xScale.range()
+```
+
+---
+
 b is like a "span" in html.  it's a container.
 
 ---
