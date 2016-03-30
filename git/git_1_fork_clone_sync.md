@@ -3,12 +3,12 @@
 #### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
 
-In this example, it is:  https://github.com/thisismetis/ds5
+In this example, it is:  https://github.com/thisismetis/nyc16_ds7
 
 #### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
 
-Go to my forked repo: https://github.com/reshama/ds5
+Go to my forked repo: https://github.com/reshama/nyc16_ds7
  
 #### Step 3:  Clone repo
 Clone that forked repo (which is now under my name)
@@ -27,8 +27,8 @@ $ pwd
 $ cd metisgh/
 $ ls
 
-$ git clone https://github.com/reshama/ds5.git
-$ cd ds5
+$ git clone https://github.com/reshama/nyc16_ds7.git
+$ cd nyc16_ds7
 ```
 --
 ## Set upstream
@@ -40,14 +40,14 @@ Origin:  reshama/ds5
 **Note:  Need to be in that directory on Unix to update repo**
 ```
 $ git remote -v
-origin	https://github.com/reshama/ds5.git (fetch)
-origin	https://github.com/reshama/ds5.git (push)
+origin	https://github.com/reshama/nyc16_ds7.git (fetch)
+origin	https://github.com/reshama/nyc16_ds7.git (push)
 ```
 
 Want to add reference to metis repo (which is master repo)
 Note:  can call it “upstream” or “root” or any other name
 ```
-$ git remote add upstream https://github.com/thisismetis/ds5.git
+$ git remote add upstream https://github.com/thisismetis/nyc16_ds7.git
 ```
 
 Now we see we have two remotes: 
@@ -55,10 +55,10 @@ Now we see we have two remotes:
 * upstream
 ```
 $ git remote -v
-origin	https://github.com/reshama/ds5.git (fetch)
-origin	https://github.com/reshama/ds5.git (push)
-upstream	https://github.com/thisismetis/ds5.git (fetch)
-upstream	https://github.com/thisismetis/ds5.git (push)
+origin	https://github.com/reshama/nyc16_ds7.git (fetch)
+origin	https://github.com/reshama/nyc16_ds7.git (push)
+upstream	https://github.com/thisismetis/nyc16_ds7.git (fetch)
+upstream	https://github.com/thisismetis/nyc16_ds7.git (push)
 ```
 --
 ## Sync repos
@@ -75,7 +75,7 @@ remote: Counting objects: 55, done.
 remote: Compressing objects: 100% (31/31), done.
 remote: Total 55 (delta 9), reused 0 (delta 0), pack-reused 24
 Unpacking objects: 100% (55/55), done.
-From https://github.com/thisismetis/ds5
+From https://github.com/thisismetis/nyc16_ds7
  * branch            master     -> FETCH_HEAD
  * [new branch]      master     -> upstream/master
 Updating 73c9b7f..e2fa70b
@@ -85,7 +85,7 @@ Fast-forward
 `$ git status`
 
 git push or git push origin master
-change from metis (master) down to local (my computer) and up to origin (me/ds5)
+change from metis (master) down to local (my computer) and up to origin (me/nyc16_ds7)
 
 `$ git push`
 ```
@@ -115,7 +115,7 @@ Delta compression using up to 4 threads.
 Compressing objects: 100% (52/52), done.
 Writing objects: 100% (55/55), 51.21 MiB | 6.26 MiB/s, done.
 Total 55 (delta 14), reused 0 (delta 0)
-To https://github.com/reshama/ds5.git
+To https://github.com/reshama/nyc16_ds7.git
    73c9b7f..e2fa70b  master -> master
 
 ```
