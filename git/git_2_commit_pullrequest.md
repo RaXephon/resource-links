@@ -7,7 +7,7 @@
 **Always "git pull" before sending up any changes**
 ```
 $ pwd
-/Users/reshamashaikh/_ds/metis/metisgh/ds5
+/Users/reshamashaikh/_ds/metis/metisgh/nyc16_ds7
 
 $ git pull  (by default, it pulls from origin)
 
@@ -18,7 +18,7 @@ remote: Counting objects: 55, done.
 remote: Compressing objects: 100% (31/31), done.
 remote: Total 55 (delta 9), reused 0 (delta 0), pack-reused 24
 Unpacking objects: 100% (55/55), done.
-From https://github.com/thisismetis/ds5
+From https://github.com/thisismetis/nyc16_ds7
  * branch            master     -> FETCH_HEAD
  * [new branch]      master     -> upstream/master
 Updating 73c9b7f..e2fa70b
@@ -27,7 +27,7 @@ Fast-forward
 
 ## Practice - let's add a file
 ```
-$ cd ds5/challenges/00-practice
+$ cd nyc16_ds7/challenges/00-practice
 $ mkdir reshama
 $ cd reshama
 ```
@@ -77,7 +77,7 @@ $ git push
 ## Pull Request
 
 Go to your forked version
-https://github.com/reshama/ds5
+https://github.com/reshama/nyc16_ds7
 
 Right column, go to "New pull request"
 
@@ -99,10 +99,10 @@ origin
 upstream
 
 $ git remote -v
-origin	https://github.com/reshama/ds5.git (fetch)
-origin	https://github.com/reshama/ds5.git (push)
-upstream	https://github.com/thisismetis/ds5.git (fetch)
-upstream	https://github.com/thisismetis/ds5.git (push)
+origin	https://github.com/reshama/nyc16_ds7.git (fetch)
+origin	https://github.com/reshama/nyc16_ds7.git (push)
+upstream	https://github.com/thisismetis/nyc16_ds7.git (fetch)
+upstream	https://github.com/thisismetis/nyc16_ds7.git (push)
 
 $ git log               # gives log of commits
 
