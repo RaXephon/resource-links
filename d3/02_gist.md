@@ -51,7 +51,9 @@ git push
 ```
 
 Opens browser with this gist:  
-https://gist.github.com/reshama/ee81823a8096de111624b5f089d3dd4a
+https://gist.github.com/reshama/ee81823a8096de111624b5f089d3dd4a  
+It becomes:  
+http://bl.ocks.org/reshama/ee81823a8096de111624b5f089d3dd4a  
 
 Now that you’ve made a gist, you can view it on bl.ocks.org! Simply copy the gist number and replace the URL. For example,
 
