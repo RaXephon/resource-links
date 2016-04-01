@@ -1,5 +1,12 @@
+####Key References
 
 [Margin Conventions](https://bl.ocks.org/mbostock/3019563)  
+ 
+[Let's Make a Block](https://bost.ocks.org/mike/block/)  
+http://bl.ocks.org/reshama
+
+---
+
 [Third Variable in D3 Anonymous Function](http://stackoverflow.com/questions/20437116/third-variable-in-d3-anonymous-function)
 
 ---
@@ -46,7 +53,5 @@ b is like a "span" in html.  it's a container.
 
 `$0.__data__`
 go to any webpage with d3 stuff on it. right click on any d3 element and choose inspect. then type that in the console. it will tell you which data is bound to that element.
- 
-[Let's Make a Block](https://bost.ocks.org/mike/block/)  
-http://bl.ocks.org/reshama
+
 
