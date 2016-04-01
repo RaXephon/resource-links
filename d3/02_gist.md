@@ -49,6 +49,17 @@ edit index.html
 git commit -m 'Made some awesome changes.'
 git push
 ```
+---
+**Step 1:**  
+https://gist.github.com/reshama
+
+**Step 2:  Choose gist**  
+reshama / barley.csv  
+
+**Step 3:  Generate block (at upper right, click on button:  bl.ocks (with arrow pointing to upper right)**:  
+Gist will be viewable
+
+--- 
 
 Opens browser with this gist:  
 https://gist.github.com/reshama/ee81823a8096de111624b5f089d3dd4a  
