@@ -5,6 +5,10 @@ reshama$ dvrs
 reshama$ pwd
 /Users/reshamashaikh/_ds/metis/metisgh/dataviz_rs
 ```
+**Open files using sublime editor**  
+```
+$ sublime .
+```
 
 **Start up local server**
 ```
