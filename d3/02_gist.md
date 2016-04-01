@@ -19,6 +19,38 @@ With http-server running, visit [localhost:8080](http://localhost:8080/) in your
 
 ---
 
-**Create a Gist**  
+##Create a Gist**  
+## Usage
 
+All my gists:  
 https://gist.github.com/reshama
+
+To upload all files in the current directory to your new gist:
+
+```bash
+gistup
+```
+
+If you just want to create a gist from a single file, try this instead:
+
+```bash
+gistup index.html
+```
+
+If you specify any options, such as a private gist, you must separate files from options with a double-dash (--) like this:
+
+```bash
+gistup --private -- index.html
+```
+
+If you want to update your gist later, just use git:
+
+```bash
+edit index.html
+git commit -m 'Made some awesome changes.'
+git push
+```
+
+Opens browser with this gist:  
+https://gist.github.com/reshama/ee81823a8096de111624b5f089d3dd4a
+
