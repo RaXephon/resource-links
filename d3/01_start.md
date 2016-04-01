@@ -1,8 +1,9 @@
 
 **Open terminal window & navigate to folder**  
 ```
+reshama$ dvrs
 reshama$ pwd
-/Users/reshamashaikh/_ds/metis/metisgh/dataviz_d3
+/Users/reshamashaikh/_ds/metis/metisgh/dataviz_rs
 ```
 
 **Start up local server**
