@@ -19,8 +19,7 @@ With http-server running, visit [localhost:8080](http://localhost:8080/) in your
 
 ---
 
-##Create a Gist**  
-## Usage
+##Create a Gist
 
 All my gists:  
 https://gist.github.com/reshama
@@ -53,4 +52,35 @@ git push
 
 Opens browser with this gist:  
 https://gist.github.com/reshama/ee81823a8096de111624b5f089d3dd4a
+
+Now that you’ve made a gist, you can view it on bl.ocks.org! Simply copy the gist number and replace the URL. For example,
+
+https://gist.github.com/mbostock/4060606
+
+becomes
+
+http://bl.ocks.org/mbostock/4060606
+
+You can also install the bl.ocks.org browser extension, which inserts a convenient button on the GitHub Gist page to take you to the corresponding block. 
+
+---
+
+Gistup works with binary files, too!
+
+Arguments:
+
+* --description, -m - provide an optional description
+* --interactive, -i - request confirmation of every file before adding
+* --exclude, -x - skip files matching pattern; may use wildcards
+* --private, --no-public - make a secret gist
+* --open [url] - specify the URL to open after creating the gist
+* --no-open - don’t open the created gist in your web browser when done
+* --remote - specify the name of the git remote
+* --help - show some help
+* --version - print the current version of gistup
+
+Gistup comes bundled with two helper programs: `gistup-rename` and `gistup-open`. Use `gistup-rename "description of gist"` to update the description of the gist in the current directory and `gistup-open` to open it for viewing in your default browser.
+
+Source:  
+https://github.com/mbostock/gistup
 
