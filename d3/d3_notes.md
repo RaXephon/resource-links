@@ -5,6 +5,8 @@
 [Let's Make a Block](https://bost.ocks.org/mike/block/)  
 http://bl.ocks.org/reshama
 
+[D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read)
+
 ---
 
 [Third Variable in D3 Anonymous Function](http://stackoverflow.com/questions/20437116/third-variable-in-d3-anonymous-function)
