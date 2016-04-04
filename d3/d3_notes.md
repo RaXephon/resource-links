@@ -2,7 +2,12 @@
 
 [Margin Conventions](https://bl.ocks.org/mbostock/3019563)  
 [Making a Bar Chart](https://bl.ocks.org/mbostock/3885304)
-[Mister Nester](http://bl.ocks.org/shancarter/raw/4748131/)
+[Mister Nester](http://bl.ocks.org/shancarter/raw/4748131/)  
+```
+d3.nest()
+  .key(function(d) { return d.variety; })
+  .entries(data);
+```  
  
 [Let's Make a Block](https://bost.ocks.org/mike/block/)  
 http://bl.ocks.org/reshama
