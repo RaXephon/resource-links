@@ -12,6 +12,12 @@ d3.nest()
 [Let's Make a Block](https://bost.ocks.org/mike/block/)  
 http://bl.ocks.org/reshama
 
+---
+D3 has a built in function to create a line
+
+
+---
+
 [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read)
 
 ---
