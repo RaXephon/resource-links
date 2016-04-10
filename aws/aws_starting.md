@@ -39,7 +39,9 @@ Step 7) Review Instance Launch: your set-up will look like below screenshot
     
     
 ---
-####Connecting to your Instance
+
+####Connecting to your Instance  
+Save a screen shot:  this pop-up has very valuable information!
 
  ![connect to instance](img/aws_connect_to_instance.png)
 
