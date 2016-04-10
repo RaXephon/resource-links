@@ -1,7 +1,7 @@
 ##Amazon Web Services 
 ###Setting up Cloud Computing :cloud:
 
-1.  **Log in**  
+1.  Log in  
   http://aws.amazon.com/  
   (Note:  put your user id and password somewhere for easy reference)
 
