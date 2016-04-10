@@ -72,7 +72,7 @@ If you need any assistance connecting to your instance, please see our connectio
 
 ```
 reshama$ ssh -i "awskeyds7.pem" ubuntu@ec2-52-90-175-82.compute-1.amazonaws.com
-```      
+
     The authenticity of host 'ec2-52-90-175-82.compute-1.amazonaws.com (52.90.175.82)' can't be established.
 ECDSA key fingerprint is SHA256:nxfp+WXpqy4YtZYL+Swe7333bgcHcdF9p8cfpdk+ghM.
 Are you sure you want to continue connecting (yes/no)? yes
