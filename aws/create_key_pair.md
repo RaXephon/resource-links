@@ -24,10 +24,17 @@ reshama$ mv *.pem /Users/reshamashaikh/.ssh
 reshama$ 
 ```
 
+```
 reshama$ ls *ds7*
 -rw-r--r--@ 1   1692 Apr 10 16:25 awskey_ds7.pem
 reshama$ chmod 400 awskey_ds7.pem
 reshama$ ls *ds7*
 -r--------@ 1   1692 Apr 10 16:25 awskey_ds7.pem
 reshama$ 
+```
+
+Get notified of estimated charges
+ * Create billing alerts (so you are not surprised when you receive your credit card bill)
+ * 
+ 
 
