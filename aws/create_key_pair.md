@@ -35,6 +35,9 @@ reshama$
 
 Get notified of estimated charges
  * Create billing alerts (so you are not surprised when you receive your credit card bill)
- * 
+ * Select all 3:  
+    * Receive PDF Invoice By Email
+    * Receive Billing Alerts
+    * Receive Billing Reports
  
 
