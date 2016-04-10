@@ -35,6 +35,11 @@ ubuntu@ip-172-31-59-73:/home$ history
    30  ls
    31  sudo visudo
    32  history
+   33  ls
+   34  sudo mkdir /home/reshama/.ssh/
+   35  sudo emacs /home/reshama/.ssh/authorized_keys
+   36  history
+   
 ubuntu@ip-172-31-59-73:/home$ 
 
 ```
