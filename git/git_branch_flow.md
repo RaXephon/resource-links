@@ -27,6 +27,10 @@ Why use branches?
 
  * **Rename a branch** (whichever is the current one, be careful)  
     `$git branch -m newone_wip`
+ * **Rename a branch** (can specify oldname and newname)
+    `$git branch -m <oldname> <newname>`
+
+
  * **Back to main branch**  
     `$git checkout master`
  * **Merge branches** (will merge specified <branchname> into current branch)  
