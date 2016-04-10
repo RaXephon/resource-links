@@ -19,6 +19,7 @@ Why use branches?
  * **Navigate between branches**  
     `$git checkout -b branchname`
 
+
  * **Delete a branch** (safe delete; won't delete if there are unmerged changes)  
     `$git branch -d reshama_wip`
  * **Delete a branch** (force delete; will delete even if branch has unmerged changes)  
@@ -27,7 +28,7 @@ Why use branches?
 
  * **Rename a branch** (whichever is the current one, be careful)  
     `$git branch -m newone_wip`
- * **Rename a branch** (can specify oldname and newname)
+ * **Rename a branch** (can specify oldname and newname)  
     `$git branch -m <oldname> <newname>`
 
 
