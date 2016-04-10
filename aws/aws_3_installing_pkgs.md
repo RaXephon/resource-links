@@ -92,6 +92,17 @@ Now you can log in to your remote machine with `ssh my_cool_machine`.
 **Note:  if you get an error, turn off your computer's firewall**  
 Apple / System Preferences / Security & Privacy / Firewall
 
+Public DNS
+ec2-54-152-1-230.compute-1.amazonaws.com
+	
+Public IP
+54.152.1.230
+
+```
+#if this is not working
+ssh -i "awskey2ds7.pem" ubuntu@ec2-54-152-1-230.compute-1.amazonaws.com
+```
+
 ```
 $ ssh -i ~/.ssh/awskey2ds7.pem ubuntu@54.152.1.230
 ```
