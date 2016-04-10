@@ -16,3 +16,7 @@
 
 4.  Region [on upper right of screen]  
   Select:  US East (N. Virginia)
+
+5.  Create Instance
+    From your EC2 Dashboard, click the blue "Launch Instance" button.
+
