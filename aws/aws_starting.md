@@ -29,7 +29,7 @@ Step 3) Configure Instance Details:  [accept default]
 Step 4) Add Storage:  [accept default]  
 Step 5) Tag Instance: `aws_ds7`  
 Step 6) Configure Security Group: Name a new security group and allow some more ports if you like. 80 is a fun port to allow.  
-    Add Rule:  select 'Custom TCP Rule'  
+>    Add Rule:  select 'Custom TCP Rule'  
     Port Range: 80  
     Review and Launch / Launch    
     
