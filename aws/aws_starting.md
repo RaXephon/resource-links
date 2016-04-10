@@ -4,5 +4,8 @@ http://aws.amazon.com/
 
 Note:  copy your user id and password somewhere for easy reference
 
+AWS Console
+
+![AWS Console](img/aws_console.png)
 
 
