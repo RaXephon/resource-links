@@ -37,7 +37,7 @@ ubuntu@ip-172-31-59-73:/home$ history
    32  history
    33  ls
    34  sudo mkdir /home/reshama/.ssh/
-   35  sudo emacs /home/reshama/.ssh/authorized_keys
+   35  sudo nano /home/reshama/.ssh/authorized_keys
    36  history
    
 ubuntu@ip-172-31-59-73:/home$ 
@@ -58,6 +58,17 @@ reshama$ emacs *ds7*
 
 [1]+  Stopped                 emacs *ds7*
 reshama$ 
+```
+
+```
+reshama$ pwd
+/Users/reshamashaikh/.ssh
+reshama$ emacs id_rsa.pub
+```
+
+
+```
+ubuntu@ip-172-31-55-178:/home/reshama/.ssh$ sudo nano authorized_keys
 ```
 
 Copy in your public key, save, and quit.
