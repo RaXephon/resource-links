@@ -18,7 +18,8 @@ Why use branches?
     `$git branch reshama_wip`
  * **Navigate between branches**  
     `$git checkout branchname`
-
+ * **Create and switch to branch** (2 steps in 1 line)  
+    `$git checkout -b testbranch`
 
  * **Delete a branch** (safe delete; won't delete if there are unmerged changes)  
     `$git branch -d reshama_wip`
@@ -39,7 +40,67 @@ Why use branches?
   
 --- 
 
-###An Example
+###An Example  
+
+```
+reshama$ #print working directory
+reshama$ pwd
+/Users/reshamashaikh/ds/metisgh/nyc16_ds7
+
+reshama$ #list the branches in this repo
+reshama$ git branch
+* master
+
+reshama$ #create a test branch
+reshama$ git branch test
+
+reshama$ #list branches in this repo
+reshama$ git branch
+* master
+  test
+  
+reshama$ #delete the 'test' branch
+reshama$ git branch -d test
+Deleted branch test (was f320504).
+
+reshama$ #check to see the branch 'test' was deleted
+reshama$ git branch
+* master
+
+reshama$ #create a branch
+reshama$ git branch reshama
+reshama$ git branch
+* master
+  reshama
+  
+reshama$ #rename the branch
+reshama$ git branch -m reshama reshama_wip
+reshama$ git branch
+* master
+  reshama_wip
+  
+reshama$ #switch to another branch
+reshama$ git checkout reshama_wip
+Switched to branch 'reshama_wip'
+reshama$ git branch
+  master
+* reshama_wip
+
+reshama$ #back to master branch
+reshama$ git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+
+reshama$ git branch
+* master
+  reshama_wip
+reshama$ 
+
+```
+
+
+
+
 
 ```
 reshama$ pwd
