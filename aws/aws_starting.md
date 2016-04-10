@@ -1,4 +1,4 @@
-##Amazon Web Services (seting up Cloud Computing)
+##Amazon Web Services (Setting up Cloud Computing) :cloud:
 
 1.  **Log in**  
 http://aws.amazon.com/  
