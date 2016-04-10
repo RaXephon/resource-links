@@ -38,3 +38,19 @@ ubuntu@ip-172-31-59-73:/home$ history
 ubuntu@ip-172-31-59-73:/home$ 
 
 ```
+
+###AWS:  adduser reshama
+```
+reshama$ pwd
+/Users/reshamashaikh/.ssh
+reshama$ ls *ds7*
+-r--------@ 1   1692 Apr 10 17:14 awskeyds7.pem
+reshama$ #copy this public key to aws .ssh/authorized_keys
+reshama$ ls
+total 112
+-r--------@ 1   1692 Apr 10 17:14 awskeyds7.pem
+reshama$ emacs *ds7*
+
+[1]+  Stopped                 emacs *ds7*
+reshama$ 
+```
