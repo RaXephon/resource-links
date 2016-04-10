@@ -17,7 +17,7 @@ Why use branches?
  * **Create a new branch**  
     `$git branch reshama_wip`
  * **Navigate between branches**  
-    `$git checkout -b branchname`
+    `$git checkout branchname`
 
 
  * **Delete a branch** (safe delete; won't delete if there are unmerged changes)  
