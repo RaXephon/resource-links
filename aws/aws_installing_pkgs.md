@@ -79,4 +79,5 @@ User my_cool_username
 Now you can log in to your remote machine with `ssh my_cool_machine`.
 
 **Note:  if you get an error, turn off your computer's firewall**  
+Apple / System Preferences / Security & Privacy / Firewall
 
