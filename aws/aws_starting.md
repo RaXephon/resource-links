@@ -57,7 +57,7 @@ To access your instance:
 
 Example:
 
-ssh -i "awskey_ds7.pem" ubuntu@ec2-54-152-105-0.compute-1.amazonaws.com
+    ssh -i "awskey_ds7.pem" ubuntu@ec2-54-152-105-0.compute-1.amazonaws.com
 
 Please note that in most cases the username above will be correct, however please ensure that you read your AMI usage instructions to ensure that the AMI owner has not changed the default AMI username.
 If you need any assistance connecting to your instance, please see our connection documentation.
