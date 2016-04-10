@@ -37,3 +37,9 @@ Step 7) Review Instance Launch: your set-up will look like below screenshot
 
   ![review instance](img/review_instance.png)
     
+    
+---
+####Connecting to your Instance
+
+ ![connect to instance](img/connect_to_instance.png)
+
