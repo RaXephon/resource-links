@@ -35,11 +35,11 @@ Step 6) Configure Security Group: Name a new security group and allow some more 
     
 Step 7) Review Instance Launch: your set-up will look like below screenshot  
 
-  ![review instance](img/review_instance.png)
+  ![review instance](img/aws_review_instance.png)
     
     
 ---
 ####Connecting to your Instance
 
- ![connect to instance](img/connect_to_instance.png)
+ ![connect to instance](img/aws_connect_to_instance.png)
 
