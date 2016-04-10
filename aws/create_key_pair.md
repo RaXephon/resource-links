@@ -39,5 +39,10 @@ Get notified of estimated charges
     * Receive PDF Invoice By Email
     * Receive Billing Alerts
     * Receive Billing Reports
+ * Save Preferences
+ 
+Back to:  View Instances
+
+
  
 
