@@ -59,3 +59,24 @@ reshama$ emacs *ds7*
 [1]+  Stopped                 emacs *ds7*
 reshama$ 
 ```
+
+Copy in your public key, save, and quit.
+
+Don't log out until you verify that this has worked! Open a new shell on your local machine. You should be able to log in to your remote machine like this:
+
+```
+ssh my_cool_username@123.234.123.234
+```
+
+Nobody wants to type all that. Edit your `~/.ssh/config`:
+
+```
+Host my_cool_machine
+Hostname 123.234.123.234
+User my_cool_username
+```
+
+Now you can log in to your remote machine with `ssh my_cool_machine`.
+
+**Note:  if you get an error, turn off your computer's firewall**  
+
