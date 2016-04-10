@@ -13,30 +13,30 @@ Why use branches?
 
 ###Branch Commands
  * **List branches**  
-    `$git branch`
+    `$ git branch`
  * **Create a new branch**  
-    `$git branch reshama_wip`
+    `$ git branch reshama_wip`
  * **Navigate between branches**  
-    `$git checkout branchname`
+    `$ git checkout branchname`
  * **Create and switch to branch** (2 steps in 1 line)  
-    `$git checkout -b testbranch`
+    `$ git checkout -b testbranch`
 
  * **Delete a branch** (safe delete; won't delete if there are unmerged changes)  
-    `$git branch -d reshama_wip`
+    `$ git branch -d reshama_wip`
  * **Delete a branch** (force delete; will delete even if branch has unmerged changes)  
-    `$git branch -D reshama_wip`
+    `$ git branch -D reshama_wip`
 
 
  * **Rename a branch** (whichever is the current one, be careful)  
-    `$git branch -m newone_wip`
+    `$ git branch -m newone_wip`
  * **Rename a branch** (can specify oldname and newname)  
-    `$git branch -m <oldname> <newname>`
+    `$ git branch -m <oldname> <newname>`
 
 
  * **Back to main branch**  
-    `$git checkout master`
+    `$ git checkout master`
  * **Merge branches** (will merge specified <branchname> into current branch)  
-    `$git merge <branchname>`
+    `$ git merge <branchname>`
   
 --- 
 
@@ -111,8 +111,8 @@ $ git commit origin reshama_wip -m "updating my work-in-progress branch"
 
 ####Push (by Qualifying Remote Name and Branch Name)
 ```
-$#Work on your branch as usual, and then push to your `origin`.
-$git push origin reshama_wip
+$ #Work on your branch as usual, and then push to your `origin`.
+$ git push origin reshama_wip
 ```
 
 ####Pull Request on GitHub 
@@ -122,8 +122,8 @@ $git push origin reshama_wip
 
 ####Back to your 'master' branch and syncing repos
 ```
-git checkout master
-git pull upstream master
+$ git checkout master
+$ git pull upstream master
 ```
 
 It's possible to do pull requests from your `master` branch, but this puts you in an awkward position where you're waiting for the pull request to get merged before it's safe for you to sync up again. Topic branches are highly recommended.
