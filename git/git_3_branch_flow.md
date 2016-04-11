@@ -102,16 +102,10 @@ reshama$
 ###Notes
  * You can create multiple branches, but stick with just one for now; makes it easier to manage until you're more of an expert Git user 
 
-
-####Committing (by Qualifying Remote Name and Branch Name)
-```
-$ #git commit <remotename> <branchname> -m "message"
-$ git commit origin reshama_wip -m "updating my work-in-progress branch" 
-```
-
 ####Push (by Qualifying Remote Name and Branch Name)
 ```
-$ #Work on your branch as usual, and then push to your `origin`.
+$ #Work on your branch as usual, and then push to your `origin`
+$ #git push <remotename> <branchname>
 $ git push origin reshama_wip
 ```
 
