@@ -3,7 +3,10 @@ Google Chrome:
 
 ---
 
-[Setting Attributes (mbostock wiki)](https://github.com/mbostock/d3/wiki/Selections#attr)
+[Setting Attributes (mbostock wiki)](https://github.com/mbostock/d3/wiki/Selections#attr)  
+[selection.style](https://github.com/mbostock/d3/wiki/Selections#style)  
+
+---
 
 [D3 Cheat Sheet](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)
 
