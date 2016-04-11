@@ -104,5 +104,6 @@ ssh -i "awskey2ds7.pem" ubuntu@ec2-54-152-1-230.compute-1.amazonaws.com
 ```
 
 ```
+$ #using Public ID
 $ ssh -i ~/.ssh/awskey2ds7.pem ubuntu@54.152.1.230
 ```
