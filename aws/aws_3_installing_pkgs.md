@@ -1,6 +1,8 @@
 ##Setting up AWS Machine
 ###Installing Packages
 
+[(w4_d2)](https://github.com/thisismetis/nyc16_ds6/blob/master/04-mcnulty1/02-logistic_sql_load/setting_up_cloud_servers.md)
+
 ```
 ubuntu@ip-172-31-59-73:/home$ history
     1  clear
